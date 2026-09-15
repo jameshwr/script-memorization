@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>手机安装指南 - 每日剧本背诵</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Noto Sans CJK SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: #f5f5f7;
+    color: #1d1d1f;
+    line-height: 1.6;
+    padding: 24px 16px;
+  }
+  .container { max-width: 560px; margin: 0 auto; }
+  h1 {
+    font-size: 24px;
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  .subtitle {
+    text-align: center;
+    color: #6e6e73;
+    font-size: 14px;
+    margin-bottom: 28px;
+  }
+  .tabs {
+    display: flex;
+    gap: 8px;
+    margin-bottom: 20px;
+    background: #fff;
+    padding: 4px;
+    border-radius: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .tab-btn {
+    flex: 1;
+    padding: 10px;
+    border: none;
+    background: transparent;
+    border-radius: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #6e6e73;
+    transition: all 0.2s;
+    font-family: inherit;
+  }
+  .tab-btn.active {
+    background: #5856d6;
+    color: #fff;
+  }
+  .tab-content { display: none; }
+  .tab-content.active { display: block; }
+
+  .step-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 12px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .step-header {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 10px;
+  }
+  .step-num {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #5856d6;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+  }
+  .step-title {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .step-desc {
+    font-size: 14px;
+    color: #3a3a3c;
+    margin-bottom: 10px;
+    line-height: 1.7;
+  }
+  .step-desc strong { color: #5856d6; }
+  .step-note {
+    font-size: 12px;
+    color: #ff9500;
+    background: #fff8f0;
+    padding: 8px 12px;
+    border-radius: 8px;
+    border-left: 3px solid #ff9500;
+    margin-top: 8px;
+  }
+
+  .method-card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 18px;
+    margin-bottom: 16px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .method-title {
+    font-size: 16px;
+    font-weight: 600;
+    margin-bottom: 6px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .method-tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 999px;
+    background: #e8e7ff;
+    color: #5856d6;
+    font-weight: 500;
+  }
+  .method-tag.easy { background: #f0fff4; color: #34c759; }
+  .method-tag.free { background: #fff3e0; color: #ff9500; }
+  .method-desc {
+    font-size: 13px;
+    color: #6e6e73;
+    margin-bottom: 10px;
+  }
+
+  .icon-row {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 16px 0;
+  }
+  .icon-box {
+    text-align: center;
+  }
+  .icon-box img {
+    width: 72px;
+    height: 72px;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  .icon-box span {
+    display: block;
+    font-size: 11px;
+    color: #6e6e73;
+    margin-top: 6px;
+  }
+
+  .faq {
+    margin-top: 24px;
+  }
+  .faq h2 {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 12px;
+  }
+  .faq-item {
+    background: #fff;
+    border-radius: 12px;
+    padding: 14px 16px;
+    margin-bottom: 8px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  }
+  .faq-q {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 4px;
+  }
+  .faq-a {
+    font-size: 13px;
+    color: #6e6e73;
+    line-height: 1.6;
+  }
+
+  .footer {
+    text-align: center;
+    color: #86868b;
+    font-size: 12px;
+    margin-top: 32px;
+    padding-bottom: 16px;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+  <h1>📱 安装到手机主屏幕</h1>
+  <p class="subtitle">把背诵 App 添加到桌面，像原生 App 一样使用</p>
+
+  <!-- 手机类型选择 -->
+  <div class="tabs">
+    <button class="tab-btn active" onclick="switchPhone('iphone')">🍎 iPhone</button>
+    <button class="tab-btn" onclick="switchPhone('android')">🤖 Android</button>
+  </div>
+
+  <!-- iPhone 教程 -->
+  <div class="tab-content active" id="tab-iphone">
+
+    <!-- 部署方式选择 -->
+    <div class="method-card">
+      <div class="method-title">
+        方式一：Netlify 一键部署
+        <span class="method-tag easy">推荐</span>
+        <span class="method-tag free">免费</span>
+      </div>
+      <p class="method-desc">最简单的方式，拖拽上传，30 秒得到一个网址。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">1</div>
+        <div class="step-title">准备部署文件</div>
+      </div>
+      <p class="step-desc">在电脑上把 <strong>memorization</strong> 文件夹里的所有文件打包成一个 ZIP 压缩包。</p>
+      <div class="step-note">💡 直接压缩文件夹里的文件，不要嵌套一层文件夹</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">2</div>
+        <div class="step-title">打开 Netlify Drop</div>
+      </div>
+      <p class="step-desc">在电脑浏览器打开 <strong>app.netlify.com/drop</strong></p>
+      <div class="step-note">不需要注册账号，直接用</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">3</div>
+        <div class="step-title">拖拽上传</div>
+      </div>
+      <p class="step-desc">把 ZIP 文件拖到网页中间的上传区域，等待几秒钟。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">4</div>
+        <div class="step-title">获取网址</div>
+      </div>
+      <p class="step-desc">上传完成后，页面会显示一个网址，格式类似 <strong>xxx.netlify.app</strong>。把这个网址发到自己手机上（微信/QQ/邮件都行）。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">5</div>
+        <div class="step-title">手机用 Safari 打开</div>
+      </div>
+      <p class="step-desc">在 iPhone 上点击网址，选择用 <strong>Safari 浏览器</strong>打开。</p>
+      <div class="step-note">⚠️ 必须用 Safari，微信/QQ 内置浏览器不行</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">6</div>
+        <div class="step-title">添加到主屏幕</div>
+      </div>
+      <p class="step-desc">
+        点击 Safari 底部中间的 <strong>分享按钮</strong>（方框+向上箭头）<br>
+        往下滑，找到 <strong>"添加到主屏幕"</strong><br>
+        名称填"剧本背诵"，点右上角 <strong>添加</strong>
+      </p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">✓</div>
+        <div class="step-title">完成！</div>
+      </div>
+      <p class="step-desc">回到桌面，你会看到"剧本背诵"的 App 图标。点开就是全屏运行，和原生 App 一模一样！</p>
+      <div class="icon-row">
+        <div class="icon-box">
+          <img src="icon-192.png" alt="App 图标">
+          <span>桌面图标</span>
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Android 教程 -->
+  <div class="tab-content" id="tab-android">
+
+    <div class="method-card">
+      <div class="method-title">
+        方式一：Netlify 一键部署
+        <span class="method-tag easy">推荐</span>
+        <span class="method-tag free">免费</span>
+      </div>
+      <p class="method-desc">最简单的方式，拖拽上传，30 秒得到一个网址。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">1</div>
+        <div class="step-title">准备部署文件</div>
+      </div>
+      <p class="step-desc">在电脑上把 <strong>memorization</strong> 文件夹里的所有文件打包成一个 ZIP 压缩包。</p>
+      <div class="step-note">💡 直接压缩文件夹里的文件，不要嵌套一层文件夹</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">2</div>
+        <div class="step-title">打开 Netlify Drop</div>
+      </div>
+      <p class="step-desc">在电脑浏览器打开 <strong>app.netlify.com/drop</strong></p>
+      <div class="step-note">不需要注册账号，直接用</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">3</div>
+        <div class="step-title">拖拽上传</div>
+      </div>
+      <p class="step-desc">把 ZIP 文件拖到网页中间的上传区域，等待几秒钟。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">4</div>
+        <div class="step-title">获取网址</div>
+      </div>
+      <p class="step-desc">上传完成后，页面会显示一个网址，格式类似 <strong>xxx.netlify.app</strong>。把这个网址发到自己手机上。</p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">5</div>
+        <div class="step-title">手机用 Chrome 打开</div>
+      </div>
+      <p class="step-desc">在手机上用 <strong>Chrome 浏览器</strong>打开这个网址。</p>
+      <div class="step-note">⚠️ 推荐用 Chrome，安装 PWA 体验最好</div>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">6</div>
+        <div class="step-title">安装应用</div>
+      </div>
+      <p class="step-desc">
+        点击 Chrome 右上角的 <strong>三个点</strong>（菜单按钮）<br>
+        选择 <strong>"安装应用"</strong> 或 <strong>"添加到主屏幕"</strong><br>
+        确认后，App 就出现在桌面上了
+      </p>
+    </div>
+
+    <div class="step-card">
+      <div class="step-header">
+        <div class="step-num">✓</div>
+        <div class="step-title">完成！</div>
+      </div>
+      <p class="step-desc">回到桌面，你会看到"每日剧本背诵"的 App 图标。点开就是全屏运行！</p>
+    </div>
+
+  </div>
+
+  <!-- FAQ -->
+  <div class="faq">
+    <h2>❓ 常见问题</h2>
+
+    <div class="faq-item">
+      <div class="faq-q">安装后需要联网使用吗？</div>
+      <div class="faq-a">第一次打开需要联网加载。之后就可以离线使用了（Service Worker 会自动缓存）。音频文件需要网络加载（如果部署在网上）。</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">学习进度会丢吗？</div>
+      <div class="faq-a">进度存在手机浏览器里，只要不卸载 App、不清空浏览器数据就不会丢。建议定期用"导出数据"功能备份一下。</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">换手机了怎么办？</div>
+      <div class="faq-a">旧手机上点设置 → 导出数据 → 保存 JSON 文件 → 新手机上导入这个 JSON 文件，进度就同步了。</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">可以增加新的句子吗？</div>
+      <div class="faq-a">可以。把新剧本发给我，我帮你生成新句子和音频，更新后重新部署就行。你已有的学习进度不会受影响。</div>
+    </div>
+
+    <div class="faq-item">
+      <div class="faq-q">Netlify 的网址可以改名字吗？</div>
+      <div class="faq-a">可以。注册一个免费 Netlify 账号后，就可以把网址改成自定义名字（比如 yourname.netlify.app）。不注册也能用，只是名字是随机的。</div>
+    </div>
+  </div>
+
+  <div class="footer">每日剧本背诵 · 坚持就是胜利 💪</div>
+</div>
+
+<script>
+function switchPhone(type) {
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+  event.currentTarget.classList.add('active');
+  document.getElementById('tab-' + type).classList.add('active');
+}
+</script>
+</body>
+</html>
