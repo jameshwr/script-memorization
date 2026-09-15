@@ -1,0 +1,361 @@
+{
+  "version": "1.0",
+  "lastUpdated": "2026-09-15",
+  "languages": {
+    "ko": {
+      "name": "韩语",
+      "nameKr": "한국어",
+      "flag": "🇰🇷",
+      "sources": [
+        {
+          "title": "응답하라 1988",
+          "titleCn": "请回答1988",
+          "episodes": [
+            {
+              "episode": 1,
+              "sentences": [
+                {
+                  "id": "ko_ep1_01",
+                  "text": "넉넉하지는 않았지만 마음만은 따듯했던 시절이 있었다.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "虽然算不上宽裕，但内心却温暖如春，曾有过那样的时期。",
+                  "pronunciation": "[넝너카진 아나찌만 마음마는 따드텃떤 시저리 이썯따] →↘",
+                  "soundChange": "넉→넝(鼻音化)·각하→가카(送气化)·았지만→[아나찌만](紧音化)·따듯했던→[따드텃떤](连音+紧音)",
+                  "grammar": [
+                    {"point": "~지만", "desc": "连接词尾，虽然…但是…，连接两个相反或对比的分句。"},
+                    {"point": "~지는 않다", "desc": "部分否定句式，는表示强调。"},
+                    {"point": "~던", "desc": "回忆过去冠形词词尾，带有感情色彩。"}
+                  ],
+                  "context": "本集开篇德善的旁白，画面是1988年首尔双门洞的冬天。她在回忆童年——物质虽不丰富，但邻里间的温情让那个年代格外珍贵。",
+                  "words": [
+                    {"text": "넉넉하지는", "word": "넉넉하다", "pronun": "[넝너카다]", "pos": "形容词", "meaning": "充裕、宽裕、富足。形容生活条件、时间、金钱等充足有余。", "morph": {"base": "넉넉하다", "parts": [{"type": "词干", "text": "넉넉하"}, {"type": "否定词尾", "text": "~지"}, {"type": "强调补助词", "text": "는"}], "result": "넉넉하지는", "explain": "形容词词干 넉넉하- + 否定连接词尾 ~지 + 补助词 는（表示强调）。하다类形容词接 ~지 时词干保持不变。"}, "exKr": "그 집은 살림이 넉넉하다.", "exCn": "那户人家家境宽裕。", "audio": "audio/w1_neokneokhada.mp3"},
+                    {"text": "않았지만", "word": "~지는 않다", "pronun": "~진 안타", "pos": "惯用型", "meaning": "并不…（部分否定句式）。는表示强调。", "morph": {"base": "않다", "parts": [{"type": "词干", "text": "않"}, {"type": "过去时", "text": "~았"}, {"type": "转折词尾", "text": "~지만"}], "result": "않았지만", "explain": "않다（否定辅助动词）词干 않- + 过去时词尾 ~았 + 转折连接词尾 ~지만。表示虽然并不（那样做过）。"}, "exKr": "나는 그 사람을 잘 알지는 못한다.", "exCn": "我并不太了解那个人。", "audio": ""},
+                    {"text": "마음만은", "word": "마음", "pronun": "마음", "pos": "名词", "meaning": "心、内心、心意、心情。指人的内在情感和想法。", "morph": {"base": "마음", "parts": [{"type": "名词", "text": "마음"}, {"type": "限定补助词", "text": "~만"}, {"type": "主题补助词", "text": "~은"}], "result": "마음만은", "explain": "名词 마음 + 限定补助词 ~만（只、只有）+ 主题补助词 ~은（强调主语）。~만은 表示唯独…只有…，带强调语气。"}, "exKr": "마음이 따뜻하다.", "exCn": "心地温暖。", "audio": "audio/w2_maeum.mp3"},
+                    {"text": "따듯했던", "word": "따뜻하다", "pronun": "[따드타다]", "pos": "形容词", "meaning": "温暖的、暖和的。可形容温度，也可形容人心的温暖。", "morph": {"base": "따뜻하다", "parts": [{"type": "口语形", "text": "따뜻→따듯"}, {"type": "过去时", "text": "~했"}, {"type": "回忆冠形词尾", "text": "~던"}], "result": "따듯했던", "explain": "따뜻하다的口语缩略形 따듯하다 + 过去时~았→했 + 回忆冠形词尾~던。~던带有对过去经历的追忆和感情色彩。"}, "exKr": "날씨가 따뜻하다.", "exCn": "天气暖和。", "audio": "audio/w3_ttatteuthada.mp3"},
+                    {"text": "시절이", "word": "시절", "pronun": "시절", "pos": "名词", "meaning": "时期、时节、年代。特指人生中的某段时光。", "morph": {"base": "시절", "parts": [{"type": "名词", "text": "시절"}, {"type": "主语助词", "text": "~이"}], "result": "시절이", "explain": "名词 시절 + 主语助词 ~이（用于无韵尾结尾的名词后）。"}, "exKr": "학생 시절이 그립다.", "exCn": "怀念学生时代。", "audio": "audio/w4_sijeol.mp3"},
+                    {"text": "있었다.", "word": "있다", "pronun": "[이따]", "pos": "动词", "meaning": "有、存在。表示事物的存在或拥有。", "morph": {"base": "있다", "parts": [{"type": "词干", "text": "있"}, {"type": "过去时", "text": "~었"}, {"type": "终结词尾", "text": "~다"}], "result": "있었다", "explain": "있다（存在动词）词干 있- + 过去时词尾 ~었 + 终结词尾 ~다。表示曾经有过/存在过。"}, "exKr": "꿈이 있다.", "exCn": "有梦想。", "audio": "audio/w5_itda.mp3"}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "audio/s1_full.mp3", "slow": "audio/s1_slow.mp3"},
+                  "memorizationTips": {"rhythm": "넉넉하지는 / 않았지만 / 마음만은 / 따듯했던 / 시절이 / 있었다", "stress": "**따**듯**했**던 | **시**절이 **이**썯따", "emotion": "怀念、温柔、带一丝感慨，语调整体平缓→句末缓缓落下"}
+                },
+                {
+                  "id": "ko_ep1_02",
+                  "text": "여전히 냉기가 가득했지만 가슴은 뜨거웠고 설명임을 알았다.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "虽然依然寒气逼人，但内心火热，我知道这就是 설명。",
+                  "pronunciation": "[여저니 냉기가 가드캇찌만 가슴은 뜨거웃꼬 설명이믈 아란따]",
+                  "soundChange": "생각하면→[생가카면](ㄱ+ㅎ→ㅋ)·가득했지만→[가드캇찌만](ㄱ+ㅎ→ㅋ, ㅆ+ㅈ→ㅉ)·뜨거웠고→[뜨거웃꼬](ㅂ불규칙)",
+                  "grammar": [
+                    {"point": "~지만", "desc": "连接词尾，虽然…但是…。"},
+                    {"point": "~고", "desc": "并列词尾，并且、同时。"},
+                    {"point": "~ㄹ/을 줄 알다", "desc": "知道/会做某事。表示对事实的认知。"}
+                  ],
+                  "context": "德善旁白继续，描述那个冬天的寒冷与人们内心的温暖之间的对比。",
+                  "words": [
+                    {"text": "여전히", "word": "여전히", "pronun": "[여저니]", "pos": "副词", "meaning": "仍然、依旧、依然。表示状态没有变化。", "morph": {"base": "여전하다", "parts": [{"type": "词干", "text": "여전"}, {"type": "副词化词尾", "text": "~히"}], "result": "여전히", "explain": "여전하다（依然如故）的词干 여전- + 副词化词尾 ~히。~히将形容词变为副词。发音：전+히→[저니]（ㅈ遇ㅎ颚化）。"}, "exKr": "그는 여전히 젊어 보인다.", "exCn": "他看起来依然年轻。", "audio": ""},
+                    {"text": "냉기가", "word": "냉기", "pronun": "냉기", "pos": "名词", "meaning": "冷气、寒气。指寒冷的空气或气氛。", "morph": null, "exKr": "냉기가 느껴지다.", "exCn": "感觉到寒气。", "audio": ""},
+                    {"text": "가득했지만", "word": "가득하다", "pronun": "[가드카다]", "pos": "形容词", "meaning": "满满的、充满的。", "morph": {"base": "가득하다", "parts": [{"type": "词干", "text": "가득하"}, {"type": "过去时", "text": "~았→했"}, {"type": "转折词尾", "text": "~지만"}], "result": "가득했지만", "explain": "가득하다词干 가득하- + 过去时~았(与하融合为했) + 转折词尾~지만。"}, "exKr": "방에 사람이 가득하다.", "exCn": "房间里挤满了人。", "audio": ""},
+                    {"text": "가슴은", "word": "가슴", "pronun": "[가슴]", "pos": "名词", "meaning": "胸、胸部；也指内心、心胸。", "morph": {"base": "가슴", "parts": [{"type": "名词", "text": "가슴"}, {"type": "主题助词", "text": "~은"}], "result": "가슴은", "explain": "名词 가슴 + 主题助词 ~은。"}, "exKr": "가슴이 두근거리다.", "exCn": "心跳加速。", "audio": ""},
+                    {"text": "뜨거웠고", "word": "뜨겁다", "pronun": "[뜨겁따]", "pos": "形容词", "meaning": "热的、烫的。温度高，也可形容热情。", "morph": {"base": "뜨겁다", "parts": [{"type": "词干", "text": "뜨겁"}, {"type": "ㅂ不规则变形", "text": "뜨거웠"}, {"type": "并列词尾", "text": "~고"}], "result": "뜨거웠고", "explain": "뜨겁다词干 뜨겁- 发生ㅂ不规则变形：ㅂ+过去时~었→ㅂ脱落变为우，合成 뜨거웠-。再接并列词尾~고。"}, "exKr": "날씨가 뜨겁다.", "exCn": "天气炎热。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "여전히 / 냉기가 / 가득했지만 / 가슴은 / 뜨거웠고", "stress": "**여**전히 **가**득**했**지만", "emotion": "感慨、对比，语调先沉后扬"}
+                },
+                {
+                  "id": "ko_ep1_03",
+                  "text": "가난하지만 억척스럽게 살아온 우리네 동네 사람들 얼굴에는",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "虽然贫穷，但顽强地生活过来的我们小区人们的脸上，",
+                  "pronunciation": "[가나나찌만 억처크스럽께 사라온 우리네 동네 사람드 얼굴에네]",
+                  "soundChange": "가난하지만→[가나나찌만](ㄴ+ㅎ→ㅊ)",
+                  "grammar": [
+                    {"point": "~지만", "desc": "连接词尾，虽然…但是…。"},
+                    {"point": "~아/어/여 오다", "desc": "表示动作从过去持续到现在。"}
+                  ],
+                  "context": "德善介绍双门洞邻居们的性格——虽然贫穷但坚韧乐观。",
+                  "words": [
+                    {"text": "가난하지만", "word": "가난하다", "pronun": "[가나나다]", "pos": "形容词", "meaning": "贫穷的、贫困的。", "morph": {"base": "가난하다", "parts": [{"type": "词干", "text": "가난하"}, {"type": "转折词尾", "text": "~지만"}], "result": "가난하지만", "explain": "가난하다词干 가난하- + 转折词尾 ~지만。"}, "exKr": "가난한 집에서 태어났다.", "exCn": "出生在贫困的家庭。", "audio": ""},
+                    {"text": "억척스럽게", "word": "억척스럽다", "pronun": "[억처크스럽따]", "pos": "形容词", "meaning": "顽强的、坚韧的、吃苦耐劳的。", "morph": {"base": "억척스럽다", "parts": [{"type": "词干", "text": "억척스럽"}, {"type": "副词化词尾", "text": "~게"}], "result": "억척스럽게", "explain": "억척스럽다词干 + 副词化词尾 ~게（变成副词形式）。"}, "exKr": "억척스럽게 살아가다.", "exCn": "顽强地生活下去。", "audio": ""},
+                    {"text": "살아온", "word": "살다", "pronun": "살다", "pos": "动词", "meaning": "活、生活、居住。", "morph": {"base": "살다", "parts": [{"type": "词干", "text": "살"}, {"type": "持续词尾", "text": "~아 오다→아온"}, {"type": "冠形词尾", "text": "~ㄴ"}], "result": "살아온", "explain": "살다词干 살- + ~아 오다（持续到现在的动作）→过去冠形词形 살아온。表示从过去一直活到现在。"}, "exKr": "20년간 이 동네에서 살았다.", "exCn": "在这个小区住了20年。", "audio": ""},
+                    {"text": "우리네", "word": "우리", "pronun": "우리", "pos": "代词", "meaning": "我们。", "morph": {"base": "우리", "parts": [{"type": "代词", "text": "우리"}, {"type": "复数后缀", "text": "~네"}], "result": "우리네", "explain": "우리 + ~네（表示我们那边的/我们这伙的）。"}, "exKr": "우리네 동네", "exCn": "我们小区。", "audio": ""},
+                    {"text": "동네", "word": "동네", "pronun": "동네", "pos": "名词", "meaning": "村子、小区、街区。", "morph": null, "exKr": "조용한 동네에 살다.", "exCn": "住在安静的小区。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "가난하지만 / 억척스럽게 / 살아온 / 우리네 / 동네 사람들", "stress": "**가**난**하**지만 **억**척**스럽**게", "emotion": "自豪、坚韧，语调有力"}
+                },
+                {
+                  "id": "ko_ep1_04",
+                  "text": "동네 사람들은 누가 시켜서가 아니라 그냥 하던 거야.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "小区的人们不是因为谁让做才做的，就是自然而然做的事。",
+                  "pronunciation": "[동네 사람드른 누가 시켜서가 아니라 그냥 하던 거야]",
+                  "soundChange": "사람들은→[사람드른](ㄴ+ㄷ→ㄹ+ㄹ连音)",
+                  "grammar": [
+                    {"point": "~아/어서가 아니라", "desc": "不是因为…而是…。表示否定前因，引出真正原因。"},
+                    {"point": "~던 거야", "desc": "거야=것이야的口语缩略。~던表示过去回忆。"}
+                  ],
+                  "context": "德善感叹邻里之间自发分享食物，不是被人要求，而是自然而然的习惯。",
+                  "words": [
+                    {"text": "동네", "word": "동네", "pronun": "동네", "pos": "名词", "meaning": "村子、小区、街区。", "morph": null, "exKr": "우리 동네", "exCn": "我们小区", "audio": ""},
+                    {"text": "사람들은", "word": "사람", "pronun": "사람", "pos": "名词", "meaning": "人、人们。", "morph": {"base": "사람들", "parts": [{"type": "名词", "text": "사람"}, {"type": "复数后缀", "text": "~들"}, {"type": "主题助词", "text": "~은"}], "result": "사람들은", "explain": "사람 + ~들（复数）+ ~은（主题助词）。"}, "exKr": "사람들이 많다.", "exCn": "人很多。", "audio": ""},
+                    {"text": "누가", "word": "누구", "pronun": "누가", "pos": "代词", "meaning": "谁。", "morph": {"base": "누구", "parts": [{"type": "代词词干", "text": "누구→누가"}], "result": "누가", "explain": "누구 + 主语助词 ~가 → 누구가 → 缩约为 누가。"}, "exKr": "누가 왔어?", "exCn": "谁来了？", "audio": ""},
+                    {"text": "시켜서가", "word": "시키다", "pronun": "[시케서가]", "pos": "动词", "meaning": "使、让、命令。", "morph": {"base": "시키다", "parts": [{"type": "词干", "text": "시키"}, {"type": "原因词尾", "text": "~어서"}, {"type": "主语助词", "text": "~가"}], "result": "시켜서가", "explain": "시키다词干 시키- + ~어서（原因词尾）+ ~가（主语助词，用于强调原因）。"}, "exKr": "엄마가 시킨 일이다.", "exCn": "是妈妈让做的事。", "audio": ""},
+                    {"text": "아니라", "word": "아니다", "pronun": "[아니라]", "pos": "形容词/惯用", "meaning": "不是…而是…。", "morph": {"base": "아니다", "parts": [{"type": "词干", "text": "아니"}, {"type": "连接词尾", "text": "~라"}], "result": "아니라", "explain": "아니다词干 아니- + ~라（表示否定前句，引出后句的真正内容）。"}, "exKr": "돈이 아니라 시간이 필요하다.", "exCn": "需要的不是钱而是时间。", "audio": ""},
+                    {"text": "그냥", "word": "그냥", "pronun": "그냥", "pos": "副词", "meaning": "就那样、直接、自然而然地。", "morph": null, "exKr": "그냥 두세요.", "exCn": "就这样放着吧。", "audio": ""},
+                    {"text": "하던", "word": "하다", "pronun": "하다", "pos": "动词", "meaning": "做。", "morph": {"base": "하다", "parts": [{"type": "词干", "text": "하"}, {"type": "回忆冠形词尾", "text": "~던"}], "result": "하던", "explain": "하다词干 하- + ~던（回忆冠形词尾）。"}, "exKr": "하던 대로 해.", "exCn": "按原来的做。", "audio": ""},
+                    {"text": "거야", "word": "것", "pronun": "[거야]", "pos": "依存名词", "meaning": "…的事（口语缩略形 것이야→거야）。", "morph": {"base": "것", "parts": [{"type": "依存名词", "text": "것→거"}, {"type": "终结词尾", "text": "~이야→야"}], "result": "거야", "explain": "것（依存名词）口语形 거 + ~이야→缩约为 거야。表示就是…那样。"}, "exKr": "내가 할 거야.", "exCn": "我会做的。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "동네 사람들은 / 누가 시켜서가 / 아니라 / 그냥 / 하던 거야", "stress": "**아**니라 **그**냥 **하**던 거야", "emotion": "自然、温暖、自豪"}
+                },
+                {
+                  "id": "ko_ep1_05",
+                  "text": "그게 그 시절 우리네 동네의 인심이었다.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "那就是那个年代我们小区的人情味。",
+                  "pronunciation": "[그게 그 시저 우리네 동네에 인시미였따]",
+                  "soundChange": "시절→[시절]·우리→[우리]",
+                  "grammar": [
+                    {"point": "~이었다", "desc": "过去时终结词尾。이다（是）的过去时。"}
+                  ],
+                  "context": "总结旁白——邻里分享食物的习惯，就是那个年代的人情味。",
+                  "words": [
+                    {"text": "그게", "word": "그것", "pronun": "[그게]", "pos": "代词", "meaning": "那个（그것+主语助词~가→그게）。", "morph": {"base": "그것", "parts": [{"type": "代词", "text": "그것"}, {"type": "主语助词", "text": "~이→게"}], "result": "그게", "explain": "그것 + ~이（主语助词）→缩约为 그게。"}, "exKr": "그게 사실이야?", "exCn": "那是真的吗？", "audio": ""},
+                    {"text": "그", "word": "그", "pronun": "그", "pos": "冠词", "meaning": "那、那个。", "morph": null, "exKr": "그 사람", "exCn": "那个人", "audio": ""},
+                    {"text": "시절", "word": "시절", "pronun": "시절", "pos": "名词", "meaning": "时期、年代。", "morph": null, "exKr": "그 시절이 그립다.", "exCn": "怀念那个年代。", "audio": ""},
+                    {"text": "우리네", "word": "우리", "pronun": "우리", "pos": "代词", "meaning": "我们（+~네表示我们那边的）。", "morph": {"base": "우리", "parts": [{"type": "代词", "text": "우리"}, {"type": "复数后缀", "text": "~네"}], "result": "우리네", "explain": "우리 + ~네（表示我们那边的/我们这伙的）。"}, "exKr": "우리네 동네", "exCn": "我们小区", "audio": ""},
+                    {"text": "동네의", "word": "동네", "pronun": "동네", "pos": "名词", "meaning": "小区、街区。", "morph": {"base": "동네", "parts": [{"type": "名词", "text": "동네"}, {"type": "属格助词", "text": "~의"}], "result": "동네의", "explain": "동네 + ~의（的）。"}, "exKr": "동네의 가게", "exCn": "小区的商店", "audio": ""},
+                    {"text": "인심이었다", "word": "인심", "pronun": "인심", "pos": "名词", "meaning": "人情、人情味、慷慨。", "morph": {"base": "인심이다", "parts": [{"type": "名词", "text": "인심"}, {"type": "系动词词干", "text": "이"}, {"type": "过去时", "text": "~었"}, {"type": "终结词尾", "text": "~다"}], "result": "인심이었다", "explain": "인심 + 이다（系动词）→词干 이- + 过去时 ~었 + ~다。"}, "exKr": "인심이 좋다.", "exCn": "人情味浓。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "그게 / 그 시절 / 우리네 / 동네의 / 인심이었다", "stress": "**그**게 **인**심**이**었다", "emotion": "感慨、总结、温暖收尾"}
+                },
+                {
+                  "id": "ko_ep1_06",
+                  "text": "친구가 좋아서 웃는 게 아니라 웃어서 친구가 좋은 거다.",
+                  "character": "김정환 (대사)",
+                  "translation": "不是因为朋友好才笑，而是因为笑了所以朋友才好。",
+                  "pronunciation": "[친구가 조아서 웃는 게 아나라 우서서 친구가 조은 거따]",
+                  "soundChange": "좋아서→[조아서](ㅎ脱落)",
+                  "grammar": [
+                    {"point": "~아/어서가 아니라", "desc": "不是因为…而是…。"},
+                    {"point": "~는 거다", "desc": "거다=것이다的口语。表示强调事实。"}
+                  ],
+                  "context": "正焕的经典台词，表达友情的本质——不是因为对方好才交往，而是因为相处中产生的笑容让友情珍贵。",
+                  "words": [
+                    {"text": "친구가", "word": "친구", "pronun": "친구", "pos": "名词", "meaning": "朋友。", "morph": {"base": "친구", "parts": [{"type": "名词", "text": "친구"}, {"type": "主语助词", "text": "~가"}], "result": "친구가", "explain": "친구 + ~가（主语助词）。"}, "exKr": "친구가 많다.", "exCn": "朋友很多。", "audio": ""},
+                    {"text": "좋아서", "word": "좋다", "pronun": "[조타]", "pos": "形容词", "meaning": "好的。", "morph": {"base": "좋다", "parts": [{"type": "词干", "text": "좋→조"}, {"type": "原因词尾", "text": "~아서"}], "result": "좋아서", "explain": "좋다词干 좋-（实际发音 조-）+ ~아서（原因词尾）。ㅎ在元音间脱落。"}, "exKr": "날씨가 좋다.", "exCn": "天气好。", "audio": ""},
+                    {"text": "웃는", "word": "웃다", "pronun": "[웃는]", "pos": "动词", "meaning": "笑、微笑。", "morph": {"base": "웃다", "parts": [{"type": "词干", "text": "웃"}, {"type": "现在冠形词尾", "text": "~는"}], "result": "웃는", "explain": "웃다词干 웃- + ~는（现在冠形词尾）。"}, "exKr": "그는 잘 웃는다.", "exCn": "他爱笑。", "audio": ""},
+                    {"text": "게", "word": "것", "pronun": "[게]", "pos": "依存名词", "meaning": "…的事（것+主语助词缩约）。", "morph": {"base": "것", "parts": [{"type": "依存名词", "text": "것→거"}, {"type": "主语助词", "text": "~이→게"}], "result": "게", "explain": "것 + ~이（主语助词）→缩约为 게。"}, "exKr": "좋은 게 뭐야?", "exCn": "好的是什么？", "audio": ""},
+                    {"text": "아니라", "word": "아니다", "pronun": "[아니라]", "pos": "形容词", "meaning": "不是…而是。", "morph": {"base": "아니다", "parts": [{"type": "词干", "text": "아니"}, {"type": "连接词尾", "text": "~라"}], "result": "아니라", "explain": "아니다词干 아니- + ~라（否定前句，引出后句）。"}, "exKr": "돈이 아니라 시간이 필요하다.", "exCn": "需要的不是钱而是时间。", "audio": ""},
+                    {"text": "웃어서", "word": "웃다", "pronun": "[우서서]", "pos": "动词", "meaning": "笑（+原因词尾）。", "morph": {"base": "웃다", "parts": [{"type": "词干", "text": "웃→우"}, {"type": "原因词尾", "text": "~어서"}], "result": "웃어서", "explain": "웃다词干 웃- + ~어서。ㅆ+ㅇ→ㅆ连音到下一音节：[우서서]。"}, "exKr": "웃어서 기분이 좋다.", "exCn": "笑着心情变好。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "친구가 좋아서 / 웃는 게 아니라 / 웃어서 / 친구가 좋은 거다", "stress": "**아**니라 **웃**어서 **좋**은 거다", "emotion": "温暖、感慨、友情"}
+                },
+                {
+                  "id": "ko_ep1_07",
+                  "text": "그래도 그 시절이 좋았다.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "尽管如此，那个年代还是很好的。",
+                  "pronunciation": "[그래도 그 시저리 조안따]",
+                  "soundChange": "시절이→[시저리](ㄹ+이→ㄹ+리连音)",
+                  "grammar": [
+                    {"point": "그래도", "desc": "尽管如此、即使这样。副词，连接前文转折。"},
+                    {"point": "~았다", "desc": "过去时终结词尾。"}
+                  ],
+                  "context": "短句，德善总结对那个年代的怀念。",
+                  "words": [
+                    {"text": "그래도", "word": "그래도", "pronun": "그래도", "pos": "副词", "meaning": "尽管如此、即使这样。", "morph": null, "exKr": "그래도 해야 한다.", "exCn": "即使这样也得做。", "audio": ""},
+                    {"text": "그", "word": "그", "pronun": "그", "pos": "冠词", "meaning": "那、那个。", "morph": null, "exKr": "그 사람", "exCn": "那个人", "audio": ""},
+                    {"text": "시절이", "word": "시절", "pronun": "시절", "pos": "名词", "meaning": "时期、年代。", "morph": {"base": "시절", "parts": [{"type": "名词", "text": "시절"}, {"type": "主语助词", "text": "~이"}], "result": "시절이", "explain": "시절 + ~이（主语助词）。"}, "exKr": "학생 시절", "exCn": "学生时代", "audio": ""},
+                    {"text": "좋았다", "word": "좋다", "pronun": "[조안따]", "pos": "形容词", "meaning": "好的。", "morph": {"base": "좋다", "parts": [{"type": "词干", "text": "좋→조"}, {"type": "过去时", "text": "~았"}, {"type": "终结词尾", "text": "~다"}], "result": "좋았다", "explain": "좋다词干 좋-（发音 조-）+ ~았（过去时）+ ~다。ㅎ在元音间脱落。"}, "exKr": "어제 날씨가 좋았다.", "exCn": "昨天天气好。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "그래도 / 그 시절이 / 좋았다", "stress": "**그래**도 **좋**았따", "emotion": "感慨、温暖、简洁有力"}
+                },
+                {
+                  "id": "ko_ep1_08",
+                  "text": "나는 왜 그때를 그리워하는지 알 것 같다.",
+                  "character": "성덕선 (내레이션)",
+                  "translation": "我似乎知道为什么我会怀念那个时候了。",
+                  "pronunciation": "[나는 왜 그떼를 그리워하는지 알 것 가따]",
+                  "soundChange": "그때를→[그떼를](ㄲ+ㄹ保持)",
+                  "grammar": [
+                    {"point": "~는지", "desc": "疑问连接词尾，表示不确定的疑问。"},
+                    {"point": "~ㄴ/은 것 같다", "desc": "似乎…、好像…。表示推测。"}
+                  ],
+                  "context": "德善最后的感悟旁白，点题为什么怀念那个年代。",
+                  "words": [
+                    {"text": "나는", "word": "나", "pronun": "나는", "pos": "代词", "meaning": "我（+主题助词）。", "morph": {"base": "나", "parts": [{"type": "代词", "text": "나"}, {"type": "主题助词", "text": "~는"}], "result": "나는", "explain": "나 + ~는（主题助词）。"}, "exKr": "나는 학생이다.", "exCn": "我是学生。", "audio": ""},
+                    {"text": "왜", "word": "왜", "pronun": "왜", "pos": "副词", "meaning": "为什么。", "morph": null, "exKr": "왜 안 왔어?", "exCn": "为什么没来？", "audio": ""},
+                    {"text": "그때를", "word": "그때", "pronun": "그때", "pos": "名词/副词", "meaning": "那个时候、那时。", "morph": {"base": "그때", "parts": [{"type": "名词", "text": "그때"}, {"type": "宾语助词", "text": "~를"}], "result": "그때를", "explain": "그때 + ~를（宾语助词）。"}, "exKr": "그때로 돌아가고 싶다.", "exCn": "想回到那个时候。", "audio": ""},
+                    {"text": "그리워하는지", "word": "그립다", "pronun": "[그리포타다]", "pos": "形容词", "meaning": "怀念、想念。", "morph": {"base": "그립다", "parts": [{"type": "词干", "text": "그리워하"}, {"type": "疑问词尾", "text": "~는지"}], "result": "그리워하는지", "explain": "그립다→动词化 그리워하다 + ~는지（疑问连接词尾）。"}, "exKr": "고향이 그립다.", "exCn": "怀念故乡。", "audio": ""},
+                    {"text": "알", "word": "알다", "pronun": "알다", "pos": "动词", "meaning": "知道、明白。", "morph": {"base": "알다", "parts": [{"type": "词干", "text": "알"}], "result": "알", "explain": "알다词干 알-（以ㄹ结尾，接辅音词尾时ㄹ保持）。"}, "exKr": "무슨 일인지 알겠니?", "exCn": "知道是什么事吗？", "audio": ""},
+                    {"text": "것", "word": "것", "pronun": "[것→거]", "pos": "依存名词", "meaning": "…的事。", "morph": null, "exKr": "할 것이 많다.", "exCn": "要做的事很多。", "audio": ""},
+                    {"text": "같다", "word": "같다", "pronun": "[가타]", "pos": "形容词", "meaning": "似乎、好像。", "morph": {"base": "같다", "parts": [{"type": "词干", "text": "같"}, {"type": "终结词尾", "text": "~다"}], "result": "같다", "explain": "같다词干 같- + ~다。"}, "exKr": "비가 올 것 같다.", "exCn": "好像要下雨了。", "audio": ""}
+                  ],
+                  "romaji": "",
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "나는 / 왜 / 그때를 / 그리워하는지 / 알 것 같다", "stress": "**왜** **그리**워하는지 **알** 것 같다", "emotion": "感悟、释然、温暖"}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "ja": {
+      "name": "日语",
+      "nameKr": "日本語",
+      "flag": "🇯🇵",
+      "sources": [
+        {
+          "title": "日常会話例文",
+          "titleCn": "日常会话例句",
+          "episodes": [
+            {
+              "episode": 1,
+              "sentences": [
+                {
+                  "id": "ja_01",
+                  "text": "今日も一日お疲れ様でした。",
+                  "character": "日常用语",
+                  "translation": "今天也辛苦了一天。",
+                  "pronunciation": "きょうも いちにち おつかれさまでした",
+                  "romaji": "kyou mo ichinichi otsukaresama deshita",
+                  "soundChange": "お+疲れ→お疲れ様（敬语美化）",
+                  "grammar": [
+                    {"point": "～も", "desc": "也、同样。"},
+                    {"point": "お～様", "desc": "敬语美化用法，对对方的劳动表示感谢。"},
+                    {"point": "～でした", "desc": "です的过去时，礼貌体。"}
+                  ],
+                  "context": "日本职场和日常生活中最常用的慰问语，表示对对方一天工作的感谢和慰问。",
+                  "words": [
+                    {"text": "今日も", "word": "今日", "pronun": "きょう", "pos": "名词", "meaning": "今天。", "morph": {"base": "今日", "parts": [{"type": "名词", "text": "今日"}, {"type": "助词", "text": "も"}], "result": "今日も", "explain": "今日 + も（也）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "一日", "word": "一日", "pronun": "いちにち", "pos": "名词", "meaning": "一天。", "morph": null, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "お疲れ様でした", "word": "お疲れ様", "pronun": "おつかれさま", "pos": "惯用句", "meaning": "辛苦了（敬语形式）。", "morph": {"base": "疲れる", "parts": [{"type": "美化词头", "text": "お"}, {"type": "动词词干", "text": "疲れ"}, {"type": "敬语后缀", "text": "様"}, {"type": "过去时", "text": "でした"}], "result": "お疲れ様でした", "explain": "お（美化词头）+ 疲れ（动词疲れる的连用形）+ 様（敬称）+ でした（です的过去时）。"}, "exKr": "", "exCn": "", "audio": ""}
+                  ],
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "今日も / 一日 / お疲れ様でした", "stress": "きょう**も** / お**つか**れさま**でした**", "emotion": "温暖、感谢"}
+                },
+                {
+                  "id": "ja_02",
+                  "text": "考えがまとまらない時は、一度休んでみるのもいい。",
+                  "character": "日常例文",
+                  "translation": "想法无法整理的时候，先休息一下也不错。",
+                  "pronunciation": "かんがえが まとまらない ときは、いちど やすんで みるのも いい",
+                  "romaji": "kangae ga matomaranai toki wa, ichido yasunde miru no mo ii",
+                  "soundChange": "考え→[かんがえ](连浊)",
+                  "grammar": [
+                    {"point": "～ない時", "desc": "不…的时候。"},
+                    {"point": "～てみる", "desc": "试着做…。"},
+                    {"point": "～のもいい", "desc": "…也不错。"}
+                  ],
+                  "context": "建议对方在思绪混乱时先休息，常用语。",
+                  "words": [
+                    {"text": "考えが", "word": "考え", "pronun": "かんがえ", "pos": "名词", "meaning": "想法、思考。", "morph": {"base": "考える", "parts": [{"type": "动词连用形→名词化", "text": "考え"}, {"type": "主语助词", "text": "が"}], "result": "考えが", "explain": "考える的连用形名词化 考え + が（主语助词）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "まとまらない", "word": "まとまる", "pronun": "まとまる", "pos": "动词", "meaning": "整理好、凑齐。", "morph": {"base": "まとまる", "parts": [{"type": "词干", "text": "まとま"}, {"type": "否定词尾", "text": "らない"}], "result": "まとまらない", "explain": "まとまる（整理好）+ ない（否定）→まとまらない（没整理好）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "休んで", "word": "休む", "pronun": "やすむ", "pos": "动词", "meaning": "休息。", "morph": {"base": "休む", "parts": [{"type": "词干", "text": "休み→休ん"}, {"type": "连接词尾", "text": "で"}], "result": "休んで", "explain": "休む的て形：む→んで（音变规则）。"}, "exKr": "", "exCn": "", "audio": ""}
+                  ],
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "考えが / まとまらない時は / 一度 / 休んでみるのもいい", "stress": "**まと**まらない / **やす**んで", "emotion": "建议、轻松"}
+                },
+                {
+                  "id": "ja_03",
+                  "text": "失敗は成功の母である。",
+                  "character": "谚语",
+                  "translation": "失败是成功之母。",
+                  "pronunciation": "しっぱいは せいこうの ははである",
+                  "romaji": "shippai wa seikou no haha de aru",
+                  "soundChange": "失敗→[しっぱい](促音便)",
+                  "grammar": [
+                    {"point": "～の", "desc": "…的（属格助词）。"},
+                    {"point": "～である", "desc": "是（书面体，比だ更正式）。"}
+                  ],
+                  "context": "经典谚语，鼓励面对失败。",
+                  "words": [
+                    {"text": "失敗は", "word": "失敗", "pronun": "しっぱい", "pos": "名词", "meaning": "失败。", "morph": {"base": "失敗", "parts": [{"type": "名词", "text": "失敗"}, {"type": "主题助词", "text": "は"}], "result": "失敗は", "explain": "失敗 + は（主题助词）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "成功の", "word": "成功", "pronun": "せいこう", "pos": "名词", "meaning": "成功。", "morph": {"base": "成功", "parts": [{"type": "名词", "text": "成功"}, {"type": "属格助词", "text": "の"}], "result": "成功の", "explain": "成功 + の（的）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "母である", "word": "母", "pronun": "はは", "pos": "名词", "meaning": "母亲、母。", "morph": {"base": "母", "parts": [{"type": "名词", "text": "母"}, {"type": "系动词", "text": "である"}], "result": "母である", "explain": "母 + である（书面体系动词）。"}, "exKr": "", "exCn": "", "audio": ""}
+                  ],
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "失敗は / 成功の / 母である", "stress": "**しっぱい** / **せいこう**", "emotion": "鼓励、有力"}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "en": {
+      "name": "英语",
+      "nameKr": "English",
+      "flag": "🇬🇧",
+      "sources": [
+        {
+          "title": "Daily Expressions",
+          "titleCn": "日常表达",
+          "episodes": [
+            {
+              "episode": 1,
+              "sentences": [
+                {
+                  "id": "en_01",
+                  "text": "The best time to plant a tree was 20 years ago. The second best time is now.",
+                  "character": "Proverb",
+                  "translation": "种一棵树最好的时间是20年前。第二个最好的时间是现在。",
+                  "pronunciation": "/ðə bɛst taɪm tə plænt ə triː wɒz ˈtwɛnti jɪrz əˈɡoʊ. ðə ˈsɛkənd bɛst taɪm ɪz naʊ./",
+                  "romaji": "",
+                  "soundChange": "",
+                  "grammar": [
+                    {"point": "infinitive as adjective", "desc": "to plant a tree 修饰 the best time，不定式作后置定语。"},
+                    {"point": "was / is", "desc": "过去时 vs 现在时，对比时间。"}
+                  ],
+                  "context": "经典英语谚语，强调行动的重要性——无论何时开始都不晚。",
+                  "words": [
+                    {"text": "best", "word": "best", "pronun": "/bɛst/", "pos": "adj./adv.", "meaning": "最好的。good的最高级。", "morph": {"base": "good", "parts": [{"type": "形容词原级", "text": "good"}, {"type": "比较级", "text": "better"}, {"type": "最高级", "text": "best"}], "result": "best", "explain": "good → better → best（不规则变化）。"}, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "plant", "word": "plant", "pronun": "/plænt/", "pos": "v.", "meaning": "种植、栽种。", "morph": null, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "was", "word": "be", "pronun": "/wɒz/", "pos": "v.", "meaning": "是（过去时）。", "morph": {"base": "be", "parts": [{"type": "动词原形", "text": "be"}, {"type": "过去时", "text": "was"}], "result": "was", "explain": "be → was/were → been（不规则变化）。was用于第一、三人称单数。"}, "exKr": "", "exCn": "", "audio": ""}
+                  ],
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "The best time / to plant a tree / was 20 years ago. / The second best time / is now.", "stress": "**BEST** time / **PLANT** / **NOW**", "emotion": "鼓励、有力量"}
+                },
+                {
+                  "id": "en_02",
+                  "text": "Don't judge each day by the harvest you reap but by the seeds you plant.",
+                  "character": "Quote",
+                  "translation": "不要用你收获的多少来衡量每一天，而要用你播种了多少来衡量。",
+                  "pronunciation": "/doʊnt dʒʌdʒ iːtʃ deɪ baɪ ðə ˈhɑːrvɪst juː riːp bʌt baɪ ðə siːdz juː plænt/",
+                  "romaji": "",
+                  "soundChange": "",
+                  "grammar": [
+                    {"point": "Don't + V", "desc": "否定祈使句。"},
+                    {"point": "not...but...", "desc": "不是…而是…。"},
+                    {"point": "relative clause", "desc": "you reap / you plant 为省略that的定语从句。"}
+                  ],
+                  "context": "强调过程比结果更重要，关注播种而非收获。",
+                  "words": [
+                    {"text": "judge", "word": "judge", "pronun": "/dʒʌdʒ/", "pos": "v.", "meaning": "评判、衡量。", "morph": null, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "harvest", "word": "harvest", "pronun": "/ˈhɑːrvɪst/", "pos": "n.", "meaning": "收获、收成。", "morph": null, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "reap", "word": "reap", "pronun": "/riːp/", "pos": "v.", "meaning": "收割、收获。", "morph": null, "exKr": "", "exCn": "", "audio": ""},
+                    {"text": "seeds", "word": "seed", "pronun": "/siːdz/", "pos": "n.", "meaning": "种子。", "morph": {"base": "seed", "parts": [{"type": "名词单数", "text": "seed"}, {"type": "复数后缀", "text": "-s→/z/"}], "result": "seeds", "explain": "seed + -s（复数），d/z后-s读/z/。"}, "exKr": "", "exCn": "", "audio": ""}
+                  ],
+                  "audio": {"full": "", "slow": ""},
+                  "memorizationTips": {"rhythm": "Don't judge each day / by the harvest you reap / but by the seeds you plant", "stress": "don't **JUDGE** / **HARVEST** / **SEEDS**", "emotion": "哲理、鼓励"}
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
