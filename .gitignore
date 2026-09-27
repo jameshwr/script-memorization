@@ -1,0 +1,13 @@
+# 临时/中间文件
+*.bak*
+*.py
+ocr_full.py
+build_ja_n2.py
+generate_ja_audio.py
+n2_ocr_raw.txt
+batch1.json
+batch2.json
+batch3.json
+korean_50.json
+__pycache__/
+*.log

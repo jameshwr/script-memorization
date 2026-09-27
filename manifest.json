@@ -1,0 +1,25 @@
+{
+  "name": "每日剧本背诵",
+  "short_name": "剧本背诵",
+  "description": "基于电视剧剧本的每日韩语背诵学习",
+  "start_url": "./app.html",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#5856d6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "lang": "zh-CN"
+}
