@@ -446,6 +446,19 @@
     font-size: 13px;
     font-family: inherit;
   }
+  /* 通知开关 */
+  .switch { position: relative; display: inline-block; width: 44px; height: 24px; flex-shrink: 0; }
+  .switch input { opacity: 0; width: 0; height: 0; }
+  .slider {
+    position: absolute; cursor: pointer; inset: 0;
+    background: var(--border); border-radius: 24px; transition: .3s;
+  }
+  .slider:before {
+    position: absolute; content: ""; height: 18px; width: 18px;
+    left: 3px; top: 3px; background: white; border-radius: 50%; transition: .3s;
+  }
+  .switch input:checked + .slider { background: var(--primary, #4f7cff); }
+  .switch input:checked + .slider:before { transform: translateX(20px); }
   .settings-btn {
     width: 100%;
     padding: 14px;
@@ -936,6 +949,17 @@
         style="padding:5px 10px; border-radius:var(--radius); border:1px solid var(--border); background:var(--surface); color:var(--text); font-size:13px; font-family:inherit;">
     </div>
     <div class="settings-item">
+      <span class="s-label">定时推送通知</span>
+      <label class="switch">
+        <input type="checkbox" id="settingNotify" onchange="toggleNotify(this.checked)">
+        <span class="slider"></span>
+      </label>
+    </div>
+    <div class="settings-item" style="flex-direction:column; align-items:flex-start; gap:4px;">
+      <span class="s-label" style="font-size:12px; color:var(--muted);">通知权限状态</span>
+      <span class="s-value" id="notifyPermStatus" style="font-size:12px;">检测中…</span>
+    </div>
+    <div class="settings-item">
       <span class="s-label">默认语速</span>
       <select id="settingSpeed" onchange="updateSetting('speed', this.value)">
         <option value="slow">慢速</option>
@@ -1041,10 +1065,20 @@
 const STORAGE_KEY = 'script_memorization_data';
 
 // ====== 版本信息 ======
-const APP_VERSION = '1.5.2';
-const VERSION_DATE = '2026-09-27';
+const APP_VERSION = '1.6.0';
+const VERSION_DATE = '2026-10-07';
 
 const CHANGELOG = [
+  {
+    version: '1.6.0',
+    date: '2026-10-07',
+    changes: [
+      '新增：浏览器本地通知功能，到点自动推送今日背诵句子到系统通知栏',
+      '新增：设置页「定时推送通知」开关 + 通知权限状态显示',
+      '优化：页面打开时若已过今日推送时间则补推一次，避免错过',
+      '说明：需保持页面在浏览器中打开（前台或后台），关闭页面后定时器停止'
+    ]
+  },
   {
     version: '1.5.2',
     date: '2026-09-27',
@@ -1254,7 +1288,8 @@ let state = {
     speed: 'normal',
     language: 'ko',         // 当前学习语言
     startDate: '',          // 学习开始日期 YYYY-MM-DD
-    pushTime: '08:00'       // 每日推送时间 HH:MM
+    pushTime: '08:00',      // 每日推送时间 HH:MM
+    notifyEnabled: false    // 浏览器本地通知开关
   },
   sentences: {}, // id -> { addedDate, stage, nextReview, reviewLog, status, language }
   libraryIndex: 0 // 兼容旧数据，新版本按日期计算
@@ -1268,6 +1303,7 @@ function migrateState() {
   if (!state.settings.pushTime) state.settings.pushTime = '08:00';
   if (state.settings.dailyCount == null) state.settings.dailyCount = 2;
   if (!state.settings.speed) state.settings.speed = 'normal';
+  if (state.settings.notifyEnabled == null) state.settings.notifyEnabled = false;
   if (state.libraryIndex == null) state.libraryIndex = 0;
   // 为旧的句子记录补充 language 字段（默认 ko）
   for (const id in state.sentences) {
@@ -2069,6 +2105,8 @@ function importData(event) {
         document.getElementById('settingLanguage').value = state.settings.language || 'ko';
         document.getElementById('settingStartDate').value = state.settings.startDate || getTodayStr();
         document.getElementById('settingPushTime').value = state.settings.pushTime || '08:00';
+        document.getElementById('settingNotify').checked = !!state.settings.notifyEnabled;
+        updateNotifyPermStatus();
         renderToday();
         alert('导入成功！');
       } else {
@@ -2092,6 +2130,118 @@ function updateSetting(key, value) {
   }
   // 语言变化时同步顶栏按钮和内容模式标签
   if (key === 'language') updateLangSwitchUI();
+}
+
+// ====== 浏览器本地通知 ======
+const NOTIFY_STORAGE_KEY = 'memorization_last_notify_date';
+
+// 更新通知权限状态显示
+function updateNotifyPermStatus() {
+  const el = document.getElementById('notifyPermStatus');
+  if (!el) return;
+  if (!('Notification' in window)) {
+    el.textContent = '当前浏览器不支持通知';
+    el.style.color = 'var(--danger, #e74c3c)';
+    return;
+  }
+  switch (Notification.permission) {
+    case 'granted':
+      el.textContent = '已授权 ✅';
+      el.style.color = 'var(--success, #27ae60)';
+      break;
+    case 'denied':
+      el.textContent = '已拒绝（需在浏览器设置中重新允许）';
+      el.style.color = 'var(--danger, #e74c3c)';
+      break;
+    default:
+      el.textContent = '未授权（开启通知时会请求权限）';
+      el.style.color = 'var(--muted)';
+  }
+}
+
+// 切换通知开关
+async function toggleNotify(checked) {
+  state.settings.notifyEnabled = checked;
+  saveState();
+  if (checked) {
+    // 开启时请求权限
+    if (!('Notification' in window)) {
+      alert('当前浏览器不支持通知功能');
+      state.settings.notifyEnabled = false;
+      saveState();
+      document.getElementById('settingNotify').checked = false;
+      return;
+    }
+    if (Notification.permission !== 'granted') {
+      const perm = await Notification.requestPermission();
+      if (perm !== 'granted') {
+        alert('未获得通知权限，无法推送。请在浏览器设置中允许通知。');
+        state.settings.notifyEnabled = false;
+        saveState();
+        document.getElementById('settingNotify').checked = false;
+      }
+    }
+    // 开启后立即检查一次（若已过今日推送时间则补推）
+    checkAndSendDailyNotification(true);
+  }
+  updateNotifyPermStatus();
+}
+
+// 检查并发送今日背诵通知
+function checkAndSendDailyNotification(force = false) {
+  if (!state.settings.notifyEnabled) return;
+  if (!('Notification' in window) || Notification.permission !== 'granted') return;
+
+  const today = getTodayStr();
+  const lastNotifyDate = localStorage.getItem(NOTIFY_STORAGE_KEY);
+
+  // 今天已推送过，不再重复
+  if (lastNotifyDate === today) return;
+
+  // 未到推送时间且不是强制补推，则跳过
+  if (!force && isBeforePushTime()) return;
+
+  // 获取今日句子
+  const sentences = getTodaySentences();
+  if (!sentences || sentences.length === 0) return;
+
+  const lang = state.settings.language || 'ko';
+  const langName = { ko: '韩语', ja: '日语', en: '英语' }[lang] || '今日';
+
+  // 取第一句作为通知内容
+  const first = sentences[0];
+  const title = `📖 ${langName}背诵 · 今日${sentences.length}句`;
+  // 通知正文：句子文本 + 翻译（截断）
+  const text = first.text || '';
+  const trans = (first.translation || first.cn || first.meaning || '').toString();
+  const body = trans ? `${text}\n${trans}` : text;
+
+  try {
+    const n = new Notification(title, {
+      body: body.slice(0, 200),
+      icon: 'icon-192.png',
+      badge: 'icon-192.png',
+      tag: 'memorization-daily-' + today,
+      requireInteraction: true
+    });
+    n.onclick = () => {
+      window.focus();
+      n.close();
+    };
+    // 标记今日已推送
+    localStorage.setItem(NOTIFY_STORAGE_KEY, today);
+    console.log('[通知] 已发送今日背诵提醒', today);
+  } catch (e) {
+    console.error('[通知] 发送失败', e);
+  }
+}
+
+// 启动定时检查（每分钟一次）
+function startNotifyChecker() {
+  // 页面加载后先检查一次
+  setTimeout(() => checkAndSendDailyNotification(true), 1500);
+  // 每分钟检查
+  setInterval(() => checkAndSendDailyNotification(false), 60000);
 }
 
 // 顶栏快速切换语言：韩语→剧本，日语→语法
@@ -2294,9 +2444,14 @@ document.getElementById('settingSpeed').value = state.settings.speed;
 document.getElementById('settingLanguage').value = state.settings.language || 'ko';
 document.getElementById('settingStartDate').value = state.settings.startDate || getTodayStr();
 document.getElementById('settingPushTime').value = state.settings.pushTime || '08:00';
+document.getElementById('settingNotify').checked = !!state.settings.notifyEnabled;
 
 // 显示当前版本
 document.getElementById('currentVersion').textContent = 'v' + APP_VERSION;
+
+// 更新通知权限状态 + 启动定时推送检查
+updateNotifyPermStatus();
+startNotifyChecker();
 
 // 异步加载句子库后渲染今日页面
 (async function init() {

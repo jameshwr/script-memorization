@@ -1,5 +1,5 @@
-// Service Worker for 念念 PWA v1.5.2
-const CACHE_NAME = 'script-memorization-v1.5.2';
+// Service Worker for 念念 PWA v1.6.0
+const CACHE_NAME = 'script-memorization-v1.6.0';
 const ASSETS = [
   './',
   './app.html',
