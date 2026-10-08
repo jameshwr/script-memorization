@@ -8768,337 +8768,6 @@
       "flag": "🇯🇵",
       "sources": [
         {
-          "title": "日常会話例文",
-          "titleCn": "日常会话例句",
-          "episodes": [
-            {
-              "episode": 1,
-              "sentences": [
-                {
-                  "id": "ja_01",
-                  "text": "今日も一日お疲れ様でした。",
-                  "character": "日常用语",
-                  "translation": "今天也辛苦了一天。",
-                  "pronunciation": "きょうも いちにち おつかれさまでした",
-                  "romaji": "kyou mo ichinichi otsukaresama deshita",
-                  "soundChange": "お+疲れ→お疲れ様（敬语美化）",
-                  "grammar": [
-                    {
-                      "point": "～も",
-                      "desc": "也、同样。"
-                    },
-                    {
-                      "point": "お～様",
-                      "desc": "敬语美化用法，对对方的劳动表示感谢。"
-                    },
-                    {
-                      "point": "～でした",
-                      "desc": "です的过去时，礼貌体。"
-                    }
-                  ],
-                  "context": "日本职场和日常生活中最常用的慰问语，表示对对方一天工作的感谢和慰问。",
-                  "words": [
-                    {
-                      "text": "今日も",
-                      "word": "今日",
-                      "pronun": "きょう",
-                      "pos": "名词",
-                      "meaning": "今天。",
-                      "morph": {
-                        "base": "今日",
-                        "parts": [
-                          {
-                            "type": "名词",
-                            "text": "今日"
-                          },
-                          {
-                            "type": "助词",
-                            "text": "も"
-                          }
-                        ],
-                        "result": "今日も",
-                        "explain": "今日 + も（也）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "一日",
-                      "word": "一日",
-                      "pronun": "いちにち",
-                      "pos": "名词",
-                      "meaning": "一天。",
-                      "morph": null,
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "お疲れ様でした",
-                      "word": "お疲れ様",
-                      "pronun": "おつかれさま",
-                      "pos": "惯用句",
-                      "meaning": "辛苦了（敬语形式）。",
-                      "morph": {
-                        "base": "疲れる",
-                        "parts": [
-                          {
-                            "type": "美化词头",
-                            "text": "お"
-                          },
-                          {
-                            "type": "动词词干",
-                            "text": "疲れ"
-                          },
-                          {
-                            "type": "敬语后缀",
-                            "text": "様"
-                          },
-                          {
-                            "type": "过去时",
-                            "text": "でした"
-                          }
-                        ],
-                        "result": "お疲れ様でした",
-                        "explain": "お（美化词头）+ 疲れ（动词疲れる的连用形）+ 様（敬称）+ でした（です的过去时）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    }
-                  ],
-                  "audio": {
-                    "full": "",
-                    "slow": ""
-                  },
-                  "memorizationTips": {
-                    "rhythm": "今日も / 一日 / お疲れ様でした",
-                    "stress": "きょう**も** / お**つか**れさま**でした**",
-                    "emotion": "温暖、感谢"
-                  }
-                },
-                {
-                  "id": "ja_02",
-                  "text": "考えがまとまらない時は、一度休んでみるのもいい。",
-                  "character": "日常例文",
-                  "translation": "想法无法整理的时候，先休息一下也不错。",
-                  "pronunciation": "かんがえが まとまらない ときは、いちど やすんで みるのも いい",
-                  "romaji": "kangae ga matomaranai toki wa, ichido yasunde miru no mo ii",
-                  "soundChange": "考え→[かんがえ](连浊)",
-                  "grammar": [
-                    {
-                      "point": "～ない時",
-                      "desc": "不…的时候。"
-                    },
-                    {
-                      "point": "～てみる",
-                      "desc": "试着做…。"
-                    },
-                    {
-                      "point": "～のもいい",
-                      "desc": "…也不错。"
-                    }
-                  ],
-                  "context": "建议对方在思绪混乱时先休息，常用语。",
-                  "words": [
-                    {
-                      "text": "考えが",
-                      "word": "考え",
-                      "pronun": "かんがえ",
-                      "pos": "名词",
-                      "meaning": "想法、思考。",
-                      "morph": {
-                        "base": "考える",
-                        "parts": [
-                          {
-                            "type": "动词连用形→名词化",
-                            "text": "考え"
-                          },
-                          {
-                            "type": "主语助词",
-                            "text": "が"
-                          }
-                        ],
-                        "result": "考えが",
-                        "explain": "考える的连用形名词化 考え + が（主语助词）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "まとまらない",
-                      "word": "まとまる",
-                      "pronun": "まとまる",
-                      "pos": "动词",
-                      "meaning": "整理好、凑齐。",
-                      "morph": {
-                        "base": "まとまる",
-                        "parts": [
-                          {
-                            "type": "词干",
-                            "text": "まとま"
-                          },
-                          {
-                            "type": "否定词尾",
-                            "text": "らない"
-                          }
-                        ],
-                        "result": "まとまらない",
-                        "explain": "まとまる（整理好）+ ない（否定）→まとまらない（没整理好）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "休んで",
-                      "word": "休む",
-                      "pronun": "やすむ",
-                      "pos": "动词",
-                      "meaning": "休息。",
-                      "morph": {
-                        "base": "休む",
-                        "parts": [
-                          {
-                            "type": "词干",
-                            "text": "休み→休ん"
-                          },
-                          {
-                            "type": "连接词尾",
-                            "text": "で"
-                          }
-                        ],
-                        "result": "休んで",
-                        "explain": "休む的て形：む→んで（音变规则）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    }
-                  ],
-                  "audio": {
-                    "full": "",
-                    "slow": ""
-                  },
-                  "memorizationTips": {
-                    "rhythm": "考えが / まとまらない時は / 一度 / 休んでみるのもいい",
-                    "stress": "**まと**まらない / **やす**んで",
-                    "emotion": "建议、轻松"
-                  }
-                },
-                {
-                  "id": "ja_03",
-                  "text": "失敗は成功の母である。",
-                  "character": "谚语",
-                  "translation": "失败是成功之母。",
-                  "pronunciation": "しっぱいは せいこうの ははである",
-                  "romaji": "shippai wa seikou no haha de aru",
-                  "soundChange": "失敗→[しっぱい](促音便)",
-                  "grammar": [
-                    {
-                      "point": "～の",
-                      "desc": "…的（属格助词）。"
-                    },
-                    {
-                      "point": "～である",
-                      "desc": "是（书面体，比だ更正式）。"
-                    }
-                  ],
-                  "context": "经典谚语，鼓励面对失败。",
-                  "words": [
-                    {
-                      "text": "失敗は",
-                      "word": "失敗",
-                      "pronun": "しっぱい",
-                      "pos": "名词",
-                      "meaning": "失败。",
-                      "morph": {
-                        "base": "失敗",
-                        "parts": [
-                          {
-                            "type": "名词",
-                            "text": "失敗"
-                          },
-                          {
-                            "type": "主题助词",
-                            "text": "は"
-                          }
-                        ],
-                        "result": "失敗は",
-                        "explain": "失敗 + は（主题助词）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "成功の",
-                      "word": "成功",
-                      "pronun": "せいこう",
-                      "pos": "名词",
-                      "meaning": "成功。",
-                      "morph": {
-                        "base": "成功",
-                        "parts": [
-                          {
-                            "type": "名词",
-                            "text": "成功"
-                          },
-                          {
-                            "type": "属格助词",
-                            "text": "の"
-                          }
-                        ],
-                        "result": "成功の",
-                        "explain": "成功 + の（的）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    },
-                    {
-                      "text": "母である",
-                      "word": "母",
-                      "pronun": "はは",
-                      "pos": "名词",
-                      "meaning": "母亲、母。",
-                      "morph": {
-                        "base": "母",
-                        "parts": [
-                          {
-                            "type": "名词",
-                            "text": "母"
-                          },
-                          {
-                            "type": "系动词",
-                            "text": "である"
-                          }
-                        ],
-                        "result": "母である",
-                        "explain": "母 + である（书面体系动词）。"
-                      },
-                      "exKr": "",
-                      "exCn": "",
-                      "audio": ""
-                    }
-                  ],
-                  "audio": {
-                    "full": "",
-                    "slow": ""
-                  },
-                  "memorizationTips": {
-                    "rhythm": "失敗は / 成功の / 母である",
-                    "stress": "**しっぱい** / **せいこう**",
-                    "emotion": "鼓励、有力"
-                  }
-                }
-              ]
-            }
-          ]
-        },
-        {
           "title": "新日語能力試験 N2 文法例文",
           "titleCn": "新日语能力考试 N2 语法例句",
           "source": "TRY! N2 文法必备 (PDF, OCR)",
@@ -9109,11 +8778,11 @@
               "sentences": [
                 {
                   "id": "ja_n2_023",
-                  "text": "仕事を続ける限り",
-                  "kana": "しごとをつづけるかぎり",
-                  "romaji": "shigoto o tsuzukeru kagiri",
+                  "text": "仕事を続ける限り、家族を養わなければならない。",
+                  "kana": "しごとをつづけるかぎり、かぞくをやしなわなければならない。",
+                  "romaji": "shigoto o tsuzukeru kagiri, kazoku o yashinawanakereba naranai.",
                   "character": "N2语法例句",
-                  "translation": "只要继续工作",
+                  "translation": "只要继续工作，就必须养家糊口。",
                   "grammarPoint": "～限り（接续：動辞書形/名詞＋限り）表示「只要...就...,后接不可避免的结果。",
                   "words": [
                     {
@@ -9181,7 +8850,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "仕事を / 続ける / 限り",
+                    "rhythm": "仕事を続ける限り / 家族を養わなければならない /",
                     "stress": "**し**ごとを / つづ**け**る / **かぎ**り",
                     "emotion": "坚定、表达不可避免的结果"
                   },
@@ -9190,11 +8859,11 @@
                 },
                 {
                   "id": "ja_n2_024",
-                  "text": "対応せざるを得ない",
-                  "kana": "たいおうせざるをえない",
-                  "romaji": "taiou sezaru o enai",
+                  "text": "この問題には、対応せざるを得ない。",
+                  "kana": "このもんだいには、たいおうせざるをえない。",
+                  "romaji": "kono mondai ni wa, taiou sezaru o enai.",
                   "character": "N2语法例句",
-                  "translation": "不得不应对",
+                  "translation": "这个问题不得不应对。",
                   "grammarPoint": "～ざるを得ない（接续：動ない形＋ざるを得ない）表示「不得不..., 别无选择。",
                   "words": [
                     {
@@ -9266,7 +8935,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "対応 / せざる / を得ない",
+                    "rhythm": "この問題には / 対応せざるを得ない /",
                     "stress": "たい**おう** / **せ**ざる / を**え**ない",
                     "emotion": "无奈、表达别无选择"
                   },
@@ -9275,11 +8944,11 @@
                 },
                 {
                   "id": "ja_n2_032",
-                  "text": "九州沿岸から四国にかけて",
-                  "kana": "きゅうしゅうえんがんからしこくにかけて",
-                  "romaji": "kyuushuu engan kara shikoku ni kakete",
+                  "text": "台風は九州沿岸から四国にかけて暴風域に入った。",
+                  "kana": "たいふうはきゅうしゅうえんがんからしこくにかけてぼうふういきにはいった。",
+                  "romaji": "taifuu wa kyuushuu engan kara shikoku ni kakete boufuuiki ni haitta.",
                   "character": "N2语法例句",
-                  "translation": "从九州沿岸到四国一带",
+                  "translation": "台风从九州沿岸到四国一带进入了暴风圈。",
                   "grammarPoint": "～から～にかけて（接续：名＋から名＋にかけて）表示「从...到...范围, 跨度较大且无明确边界。",
                   "words": [
                     {
@@ -9393,7 +9062,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "九州 / 沿岸 / から / 四国 / にかけて",
+                    "rhythm": "台風は九州沿岸から四国にかけて暴風域に入った /",
                     "stress": "**きゅうしゅう** / えん**がん** / から / **しこく** / に**か**けて",
                     "emotion": "陈述地理范围"
                   },
@@ -9402,11 +9071,11 @@
                 },
                 {
                   "id": "ja_n2_042",
-                  "text": "何回書いたことか",
-                  "kana": "なんかいかいたことか",
-                  "romaji": "nankai kaita koto ka",
+                  "text": "この漢字、何回書いたことか。",
+                  "kana": "このかんじ、なんかいかいたことか。",
+                  "romaji": "kono kanji, nankai kaita koto ka.",
                   "character": "N2语法例句",
-                  "translation": "不知写了多少遍啊",
+                  "translation": "这个汉字，不知写了多少遍啊。",
                   "grammarPoint": "～たことか（接续：動た形＋ことか）表示感叹「多么...啊, 强调程度之高, 常与疑问词搭配。",
                   "words": [
                     {
@@ -9478,7 +9147,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "何回 / 書いた / ことか",
+                    "rhythm": "この漢字 / 何回書いたことか /",
                     "stress": "**なんかい** / **かい**た / ことか",
                     "emotion": "感叹、强调次数之多"
                   },
@@ -9487,11 +9156,11 @@
                 },
                 {
                   "id": "ja_n2_060",
-                  "text": "人間の立場から見ると",
-                  "kana": "にんげんのたちばからみると",
-                  "romaji": "ningen no tachiba kara miru to",
+                  "text": "人間の立場から見ると、それは残酷だ。",
+                  "kana": "にんげんのたちばからみると、それはざんこくだ。",
+                  "romaji": "ningen no tachiba kara miru to, sore wa zankoku da.",
                   "character": "N2语法例句",
-                  "translation": "从人类的立场来看",
+                  "translation": "从人类的立场来看，那是残酷的。",
                   "grammarPoint": "～から見ると（接续：名＋から見ると）表示「从...角度来看, 给出判断依据。",
                   "words": [
                     {
@@ -9580,7 +9249,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "人間の / 立場 / から / 見ると",
+                    "rhythm": "人間の立場から見ると / それは残酷だ /",
                     "stress": "**にんげん**の / **たち**ば / から / **み**ると",
                     "emotion": "陈述观点"
                   },
@@ -9589,11 +9258,11 @@
                 },
                 {
                   "id": "ja_n2_061",
-                  "text": "その一方で",
-                  "kana": "そのいっぽうで",
-                  "romaji": "sono ippou de",
+                  "text": "経済は成長した。その一方で、格差も広がった。",
+                  "kana": "けいざいはせいちょうした。そのいっぽうで、かくさもひろがった。",
+                  "romaji": "keizai wa seichou shita. sono ippou de, kakusa mo hirogatta.",
                   "character": "N2语法例句",
-                  "translation": "另一方面",
+                  "translation": "经济增长了。另一方面，差距也扩大了。",
                   "grammarPoint": "その一方で（接续：独立词）表示「另一方面, 引出与前述相反或并列的情况。",
                   "words": [
                     {
@@ -9661,7 +9330,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "その / 一方 / で",
+                    "rhythm": "経済は成長した / その一方で / 格差も広がった /",
                     "stress": "その / **いっぽう** / で",
                     "emotion": "转折、并列"
                   },
@@ -9670,11 +9339,11 @@
                 },
                 {
                   "id": "ja_n2_075",
-                  "text": "ご説明申し上げたい",
-                  "kana": "ごせつめいもうしあげたい",
-                  "romaji": "go setsumei moushiagetai",
+                  "text": "詳細については、ご説明申し上げたいと存じます。",
+                  "kana": "しょうさいについては、ごせつめいもうしあげたいとぞんじます。",
+                  "romaji": "shousai ni tsuite wa, gosetsumei moushiagetai to zunjimasu.",
                   "character": "N2语法例句",
-                  "translation": "想向您说明",
+                  "translation": "关于详情，我想向您说明。",
                   "grammarPoint": "ご～申し上げる（接续：ご＋漢語名詞＋申し上げる）是「言う/する的最高级谦让语。",
                   "words": [
                     {
@@ -9763,7 +9432,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "ご / 説明 / 申し上げたい",
+                    "rhythm": "詳細については / ご説明申し上げたいと存じます /",
                     "stress": "ご / **せつめい** / もうし**あ**げたい",
                     "emotion": "礼貌、谦让"
                   },
@@ -9772,11 +9441,11 @@
                 },
                 {
                   "id": "ja_n2_077",
-                  "text": "日程につきましては",
-                  "kana": "にっていにつきましては",
-                  "romaji": "nittei ni tsukimashite wa",
+                  "text": "日程につきましては、後ほどお知らせします。",
+                  "kana": "にっていにつきましては、のちほどおしらせします。",
+                  "romaji": "nittei ni tsukimashite wa, nochihodo oshirase shimasu.",
                   "character": "N2语法例句",
-                  "translation": "关于日程",
+                  "translation": "关于日程，稍后通知您。",
                   "grammarPoint": "～につきましては（接续：名＋につきましては）是「～について的郑重表达, 「关于...。",
                   "words": [
                     {
@@ -9848,7 +9517,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "日程 / につきましては",
+                    "rhythm": "日程につきましては / 後ほどお知らせします /",
                     "stress": "**にってい** / につき**まし**ては",
                     "emotion": "商务、郑重"
                   },
@@ -9857,11 +9526,11 @@
                 },
                 {
                   "id": "ja_n2_080",
-                  "text": "小林君ったら",
-                  "kana": "こばやしくんったら",
-                  "romaji": "kobayashi kun ttara",
+                  "text": "小林君ったら、また遅刻したよ。",
+                  "kana": "こばやしくんったら、またちこくしたよ。",
+                  "romaji": "kobayashi kun ttara, mata chikoku shita yo.",
                   "character": "N2语法例句",
-                  "translation": "小林啊（带抱怨/亲昵语气）",
+                  "translation": "小林啊，又迟到了。",
                   "grammarPoint": "～ったら（接续：名＋だったら/ったら）表示「提起...来, 带抱怨/责备/亲昵语气。",
                   "words": [
                     {
@@ -9929,7 +9598,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "小林 / 君 / ったら",
+                    "rhythm": "小林君ったら / また遅刻したよ /",
                     "stress": "こば**やし** / くん / **ったら**",
                     "emotion": "抱怨/亲昵"
                   },
@@ -9938,11 +9607,11 @@
                 },
                 {
                   "id": "ja_n2_094",
-                  "text": "乗客を見るにつけ",
-                  "kana": "じょうきゃくをみるにつけ",
-                  "romaji": "joukyaku o miru ni tsuke",
+                  "text": "乗客を見るにつけ、安全の重要性を感じる。",
+                  "kana": "じょうきゃくをみるにつけ、あんぜんのじゅうようせいをかんじる。",
+                  "romaji": "joukyaku o miru ni tsuke, anzen no juuyousei o kanjiru.",
                   "character": "N2语法例句",
-                  "translation": "每当看到乘客",
+                  "translation": "每当看到乘客，就感受到安全的重要性。",
                   "grammarPoint": "～につけ（接续：動辞書形/た形＋につけ）表示「每当...就..., 触景生情。",
                   "words": [
                     {
@@ -10010,7 +9679,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "乗客を / 見る / につけ",
+                    "rhythm": "乗客を見るにつけ / 安全の重要性を感じる /",
                     "stress": "じょう**きゃく**を / **み**る / に**つけ**",
                     "emotion": "触景生情"
                   },
@@ -10019,11 +9688,11 @@
                 },
                 {
                   "id": "ja_n2_102",
-                  "text": "工夫ができる上に",
-                  "kana": "くふうができるうえに",
-                  "romaji": "kufuu ga dekiru ue ni",
+                  "text": "この製品は工夫ができる上に、コストも低い。",
+                  "kana": "このせいひんはくふうができるうえに、こすともひくい。",
+                  "romaji": "kono seihin wa kufuu ga dekiru ue ni, kosuto mo hikui.",
                   "character": "N2语法例句",
-                  "translation": "在能想办法的基础上",
+                  "translation": "这个产品能想办法改进，且成本低。",
                   "grammarPoint": "～上に（接续：動辞書形/た形/形動＋上に）表示「在...基础上又..., 表叠加。",
                   "words": [
                     {
@@ -10095,7 +9764,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "工夫が / できる / 上に",
+                    "rhythm": "この製品は工夫ができる上に / コストも低い /",
                     "stress": "**くふう**が / **で**きる / **うえ**に",
                     "emotion": "陈述叠加"
                   },
@@ -10104,11 +9773,11 @@
                 },
                 {
                   "id": "ja_n2_115",
-                  "text": "厳しくなる一方です",
-                  "kana": "きびしくなるいっぽうです",
-                  "romaji": "kibishiku naru ippou desu",
+                  "text": "就職状況は厳しくなる一方だ。",
+                  "kana": "しゅうしょくじょうきょうはきびしくなるいっぽうだ。",
+                  "romaji": "shuushoku joukyou wa kibishiku naru ippou da.",
                   "character": "N2语法例句",
-                  "translation": "变得越来越严格",
+                  "translation": "就业形势越来越严苛。",
                   "grammarPoint": "～一方だ（接续：動ます形/名＋一方だ）表示「一直朝某方向变化, 单向发展。",
                   "words": [
                     {
@@ -10176,7 +9845,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "厳しく / なる / 一方 / です",
+                    "rhythm": "就職状況は厳しくなる一方だ /",
                     "stress": "**きび**しく / **な**る / **いっぽう** / です",
                     "emotion": "陈述趋势"
                   },
@@ -10185,11 +9854,11 @@
                 },
                 {
                   "id": "ja_n2_116",
-                  "text": "開発に先立って",
-                  "kana": "かいはつにさきだって",
-                  "romaji": "kaihatsu ni sakidatte",
+                  "text": "開発に先立って、十分な調査が必要だ。",
+                  "kana": "かいはつにさきだって、じゅうぶんなちょうさがひつようだ。",
+                  "romaji": "kaihatsu ni sakidatte, juubun na chousa ga hitsuyou da.",
                   "character": "N2语法例句",
-                  "translation": "在开发之前",
+                  "translation": "在开发之前，需要充分调查。",
                   "grammarPoint": "～に先立って（接续：名＋に先立って）表示「在...之前, 多用于正式场合。",
                   "words": [
                     {
@@ -10257,7 +9926,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "開発 / に / 先立って",
+                    "rhythm": "開発に先立って / 十分な調査が必要だ /",
                     "stress": "**かいはつ** / に / **さき**だって",
                     "emotion": "陈述顺序"
                   },
@@ -10266,11 +9935,11 @@
                 },
                 {
                   "id": "ja_n2_129",
-                  "text": "気持ちを込めて",
-                  "kana": "きもちをこめて",
-                  "romaji": "kimochi o komete",
+                  "text": "気持ちを込めて、プレゼントを渡した。",
+                  "kana": "きもちをこめて、ぷれぜんとをわたした。",
+                  "romaji": "kimochi o komete, purezento o watashita.",
                   "character": "N2语法例句",
-                  "translation": "倾注心意地",
+                  "translation": "倾注心意地送出了礼物。",
                   "grammarPoint": "～を込める（接续：名＋を込める）表示「倾注/集中..., 多接抽象名词。",
                   "words": [
                     {
@@ -10338,7 +10007,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "気持ちを / 込めて",
+                    "rhythm": "気持ちを込めて / プレゼントを渡した /",
                     "stress": "**きも**ちを / **こ**めて",
                     "emotion": "用心、专注"
                   },
@@ -10347,11 +10016,11 @@
                 },
                 {
                   "id": "ja_n2_138",
-                  "text": "理念に基づいて",
-                  "kana": "りねんにもとづいて",
-                  "romaji": "rinen ni motoduite",
+                  "text": "企業は理念に基づいて意思決定を行う。",
+                  "kana": "きぎょうはりねんにもとづいていしけっていをおこなう。",
+                  "romaji": "kigyou wa rinen ni motozuite ishi kettei o okonau.",
                   "character": "N2语法例句",
-                  "translation": "基于理念",
+                  "translation": "企业基于理念做决策。",
                   "grammarPoint": "～に基づいて（接续：名＋に基づいて）表示「基于/根据..., 后接依此做出的行动。",
                   "words": [
                     {
@@ -10419,7 +10088,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "理念 / に / 基づいて",
+                    "rhythm": "企業は理念に基づいて意思決定を行う /",
                     "stress": "**りねん** / に / **もと**づいて",
                     "emotion": "陈述依据"
                   },
@@ -10428,11 +10097,11 @@
                 },
                 {
                   "id": "ja_n2_026",
-                  "text": "正当なものかどうかはともかくとして",
-                  "kana": "せいとうなものかどうかはともかくとして",
-                  "romaji": "seito na mono ka dou ka wa tomokaku to shite",
+                  "text": "その方法が正当なものかどうかはともかくとして、結果は出た。",
+                  "kana": "そのほうほうがせいとうなものかどうかはともかくとして、けっかはでた。",
+                  "romaji": "sono houhou ga seitou na mono ka dou ka wa tomokaku to shite, kekka wa deta.",
                   "character": "N2语法例句",
-                  "translation": "是否正当姑且不论",
+                  "translation": "那个方法是否正当姑且不论，结果出来了。",
                   "grammarPoint": "～かどうかはともかくとして（接续：名/形动＋かどうかはともかくとして）表示「...姑且不论, 暂置不评。",
                   "words": [
                     {
@@ -10537,7 +10206,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "正当な / ものか / どうか / は / ともかく / として",
+                    "rhythm": "その方法が正当なものかどうかはともかくとして / 結果は出た /",
                     "stress": "**せいとう**な / **もの**か / **どう**か / は / **ともかく** / として",
                     "emotion": "暂置、保留判断"
                   },
@@ -10546,11 +10215,11 @@
                 },
                 {
                   "id": "ja_n2_028",
-                  "text": "お客様というより家族だ",
-                  "kana": "おきゃくさまというよりかぞくだ",
-                  "romaji": "okyakusama to iu yori kazoku da",
+                  "text": "あのお店の人は、お客様というより家族だ。",
+                  "kana": "あのおみせのひとは、おきゃくさまというよりかぞくだ。",
+                  "romaji": "ano omise no hito wa, okyakusama to iu yori kazoku da.",
                   "character": "N2语法例句",
-                  "translation": "与其说是客人不如说是家人",
+                  "translation": "那家店的人，与其说是客人不如说是家人。",
                   "grammarPoint": "～というより（接续：名/動辞書形＋というより）表示「与其说是...不如..., 修正前述表达。",
                   "words": [
                     {
@@ -10651,7 +10320,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "お客様 / というより / 家族 / だ",
+                    "rhythm": "あのお店の人は / お客様というより家族だ /",
                     "stress": "お**きゃく**さま / という**より** / **かぞく** / だ",
                     "emotion": "修正表达、亲昵"
                   },
@@ -10660,11 +10329,11 @@
                 },
                 {
                   "id": "ja_n2_033",
-                  "text": "台風の接近にともない",
-                  "kana": "たいふうのせっきんにともない",
-                  "romaji": "taifuu no sekkin ni tomonai",
+                  "text": "台風の接近にともない、風雨が強まった。",
+                  "kana": "たいふうのせっきんにともない、ふううがつよまった。",
+                  "romaji": "taifuu no sekkin ni tomonai, fuuu ga tsuyomatta.",
                   "character": "N2语法例句",
-                  "translation": "随着台风接近",
+                  "translation": "随着台风接近，风雨增强了。",
                   "grammarPoint": "～にともない（接续：名＋にともない）表示「随着...一起, 后接联动结果。",
                   "words": [
                     {
@@ -10736,7 +10405,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "台風の / 接近 / に / ともない",
+                    "rhythm": "台風の接近にともない / 風雨が強まった /",
                     "stress": "**たいふう**の / **せっき**ん / に / **とも**ない",
                     "emotion": "陈述联动"
                   },
@@ -10745,11 +10414,11 @@
                 },
                 {
                   "id": "ja_n2_036",
-                  "text": "中継がつながり次第",
-                  "kana": "ちゅうけいがつながりしだい",
-                  "romaji": "chuukei ga tsunagari shidai",
+                  "text": "中継がつながり次第、番組を開始します。",
+                  "kana": "ちゅうけいがつながりしだい、ばんぐみをかいしします。",
+                  "romaji": "chuukei ga tsunagari shidai, bangumi o kaishi shimasu.",
                   "character": "N2语法例句",
-                  "translation": "中继一旦接通就...",
+                  "translation": "中继一接通就立即开始节目。",
                   "grammarPoint": "～次第（接续：動ます形/名＋次第）表示「一...就立即..., 强调即时性。",
                   "words": [
                     {
@@ -10817,7 +10486,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "中継が / つながり / 次第",
+                    "rhythm": "中継がつながり次第 / 番組を開始します /",
                     "stress": "**ちゅうけい**が / つ**なが**り / **しだい**",
                     "emotion": "即时、强调"
                   },
@@ -10826,11 +10495,11 @@
                 },
                 {
                   "id": "ja_n2_037",
-                  "text": "京都に行ったきり",
-                  "kana": "きょうとにいったきり",
-                  "romaji": "kyouto ni itta kiri",
+                  "text": "彼は京都に行ったきり、連絡がない。",
+                  "kana": "かれはきょうとにいったきり、れんらくがない。",
+                  "romaji": "kare wa kyouto ni itta kiri, renraku ga nai.",
                   "character": "N2语法例句",
-                  "translation": "去了京都就再没...",
+                  "translation": "他去了京都就再没联系。",
                   "grammarPoint": "～きり（接续：動た形＋きり）表示「做了...之后再也没..., 后接否定结果。",
                   "words": [
                     {
@@ -10898,7 +10567,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "京都に / 行った / きり",
+                    "rhythm": "彼は京都に行ったきり / 連絡がない /",
                     "stress": "**きょうと**に / **いった** / **きり**",
                     "emotion": "遗憾、强调再无后续"
                   },
@@ -10907,11 +10576,11 @@
                 },
                 {
                   "id": "ja_n2_047",
-                  "text": "出すだけ出してみる",
-                  "kana": "だすだけだしてみる",
-                  "romaji": "dasu dake dashite miru",
+                  "text": "提案は出すだけ出してみよう。",
+                  "kana": "ていあんはだすだけだしてみよう。",
+                  "romaji": "teian wa dasu dake dashite miyou.",
                   "character": "N2语法例句",
-                  "translation": "尽可能多地拿出来试试",
+                  "translation": "提案尽可能多地拿出来试试。",
                   "grammarPoint": "～だけ～する（接续：動ます形＋だけ＋同一動て形）表示「尽可能...地..., 强调最大限度。",
                   "words": [
                     {
@@ -11000,7 +10669,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "出す / だけ / 出して / みる",
+                    "rhythm": "提案は出すだけ出してみよう /",
                     "stress": "**だ**す / **だけ** / **だ**して / **み**る",
                     "emotion": "尝试、尽力"
                   },
@@ -11009,11 +10678,11 @@
                 },
                 {
                   "id": "ja_n2_052",
-                  "text": "それが上司というものだ",
-                  "kana": "それがじょうしというものだ",
-                  "romaji": "sore ga joushi to iu mono da",
+                  "text": "部下を守る、それが上司というものだ。",
+                  "kana": "ぶかをまもる、それがじょうしというものだ。",
+                  "romaji": "buka o mamoru, sore ga joushi to iu mono da.",
                   "character": "N2语法例句",
-                  "translation": "那才叫上司",
+                  "translation": "守护下属，那才叫上司。",
                   "grammarPoint": "～というものだ（接续：名/文＋というものだ）表示「这才叫.../这才是..., 强调本质。",
                   "words": [
                     {
@@ -11110,7 +10779,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "それが / 上司 / という / ものだ",
+                    "rhythm": "部下を守る / それが上司というものだ /",
                     "stress": "**それ**が / **じょうし** / という / **もの**だ",
                     "emotion": "感叹、强调本质"
                   },
@@ -11119,11 +10788,11 @@
                 },
                 {
                   "id": "ja_n2_062",
-                  "text": "絶滅したことから",
-                  "kana": "ぜつめつしたことから",
-                  "romaji": "zetsumetsu shita koto kara",
+                  "text": "恐竜が絶滅したことから、気候変動が推測される。",
+                  "kana": "きょうりゅうがぜつめつしたことから、きこうへんどうがすいそくされる。",
+                  "romaji": "kyouryuu ga zetsumetsu shita koto kara, kikou hendou ga suisoku sareru.",
                   "character": "N2语法例句",
-                  "translation": "从灭绝这件事来看",
+                  "translation": "从恐龙灭绝这件事，可推测气候变动。",
                   "grammarPoint": "～ことから（接续：動た形/名＋の＋ことから）表示「从...可以推断/看出, 给出判断依据。",
                   "words": [
                     {
@@ -11195,7 +10864,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "絶滅 / した / ことから",
+                    "rhythm": "恐竜が絶滅したことから / 気候変動が推測される /",
                     "stress": "**ぜつ**めつ / **し**た / **こと**から",
                     "emotion": "推断、依据"
                   },
@@ -11204,11 +10873,11 @@
                 },
                 {
                   "id": "ja_n2_096",
-                  "text": "立つか立たないかのうちに",
-                  "kana": "たつかたたないかのうちに",
-                  "romaji": "tatsu ka tatanai ka no uchi ni",
+                  "text": "立つか立たないかのうちに、会議は終わった。",
+                  "kana": "たつかたたないかのうちに、かいぎはおわった。",
+                  "romaji": "tatsu ka tatanai ka no uchi ni, kaigi wa owatta.",
                   "character": "N2语法例句",
-                  "translation": "在站起与否之际（在犹豫之间）",
+                  "translation": "在站起与否之际，会议结束了。",
                   "grammarPoint": "～か～ないかのうちに（接续：動辞書形＋か＋同一動ない形＋かのうちに）表示「在是否...之间/犹豫之际, 强调瞬间。",
                   "words": [
                     {
@@ -11305,7 +10974,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "立つ / か / 立たない / か / のうちに",
+                    "rhythm": "立つか立たないかのうちに / 会議は終わった /",
                     "stress": "**た**つ / か / **た**たない / か / の**うち**に",
                     "emotion": "瞬间、犹豫"
                   },
@@ -11314,11 +10983,11 @@
                 },
                 {
                   "id": "ja_n2_106",
-                  "text": "スープにしろ具にしろ",
-                  "kana": "すーぷにしろぐにしろ",
-                  "romaji": "suupu ni shiro gu ni shiro",
+                  "text": "スープにしろ具にしろ、新鮮だ。",
+                  "kana": "すーぷにしろぐにしろ、しんせんだ。",
+                  "romaji": "suupu ni shiro gu ni shiro, shinsen da.",
                   "character": "N2语法例句",
-                  "translation": "汤也好料也好",
+                  "translation": "无论是汤还是料，都很新鲜。",
                   "grammarPoint": "～にしろ～にしろ（接续：名＋にしろ＋名＋にしろ）表示「无论是...还是..., 都..., 列举两种情况。",
                   "words": [
                     {
@@ -11390,7 +11059,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "スープ / にしろ / 具 / にしろ",
+                    "rhythm": "スープにしろ具にしろ / 新鮮だ /",
                     "stress": "**すーぷ** / に**しろ** / **ぐ** / に**しろ**",
                     "emotion": "列举、强调"
                   },
@@ -11399,11 +11068,11 @@
                 },
                 {
                   "id": "ja_n2_113",
-                  "text": "新商品を作るとした",
-                  "kana": "しんしょうひんをつくるとした",
-                  "romaji": "shin shouhin o tsukuru to shita",
+                  "text": "新商品を作るとしたら、市場調査が必要だ。",
+                  "kana": "しんしょうひんをつくるとしたら、しじょうちょうさがひつようだ。",
+                  "romaji": "shin shouhin o tsukuru to shitara, shijou chousa ga hitsuyou da.",
                   "character": "N2语法例句",
-                  "translation": "假设要开发新产品",
+                  "translation": "假设要开发新产品，需要市场调查。",
                   "grammarPoint": "～とする（接续：文＋とする）表示「假设/假定..., 多接助动词た/よう/ supposed。",
                   "words": [
                     {
@@ -11479,7 +11148,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "新商品を / 作る / とした",
+                    "rhythm": "新商品を作るとしたら / 市場調査が必要だ /",
                     "stress": "**しんしょうひん**を / **つく**る / **と**した",
                     "emotion": "假设"
                   },
@@ -11488,11 +11157,11 @@
                 },
                 {
                   "id": "ja_n2_117",
-                  "text": "市場調査をした上で",
-                  "kana": "しじょうちょうさをしたうえで",
-                  "romaji": "shijou chousa o shita ue de",
+                  "text": "市場調査をした上で、判断すべきだ。",
+                  "kana": "しじょうちょうさをしたうえで、はんだんすべきだ。",
+                  "romaji": "shijou chousa o shita ue de, handan subeki da.",
                   "character": "N2语法例句",
-                  "translation": "在做市场调查的基础上",
+                  "translation": "在做市场调查的基础上再判断。",
                   "grammarPoint": "～た上で（接续：動た形＋上で）表示「在...之后再/基础上, 强调先后顺序。",
                   "words": [
                     {
@@ -11564,7 +11233,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "市場調査を / した / 上で",
+                    "rhythm": "市場調査をした上で / 判断すべきだ /",
                     "stress": "**しじょう**ちょうさを / **し**た / **うえ**で",
                     "emotion": "顺序、依据"
                   },
@@ -11573,11 +11242,11 @@
                 },
                 {
                   "id": "ja_n2_118",
-                  "text": "社会人の声にとたえて",
-                  "kana": "しゃかいじんのこえにとたえて",
-                  "romaji": "shakaijin no koe ni totaete",
+                  "text": "社会人の声にこたえて、制度を改めた。",
+                  "kana": "しゃかいじんのこえにこたえて、せいどをあらためた。",
+                  "romaji": "shakaijin no koe ni kotaete, seido o aratameta.",
                   "character": "N2语法例句",
-                  "translation": "响应社会人的声音",
+                  "translation": "响应社会人的声音，修改了制度。",
                   "grammarPoint": "～にとたえて（接续：名＋にとたえて）是「～にこたえて的强调形式, 「响应.../鉴于...。",
                   "words": [
                     {
@@ -11649,7 +11318,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "社会人の / 声 / に / とたえて",
+                    "rhythm": "社会人の声にこたえて / 制度を改めた /",
                     "stress": "**しゃかいじん**の / **こえ** / に / **とた**えて",
                     "emotion": "响应、郑重"
                   },
@@ -11658,11 +11327,11 @@
                 },
                 {
                   "id": "ja_n2_123",
-                  "text": "行こうか行くまいか",
-                  "kana": "いこうかいくまいか",
-                  "romaji": "ikou ka iku mai ka",
+                  "text": "会議に行こうか行くまいか、迷っている。",
+                  "kana": "かいぎにいこうかいくまいか、まよっている。",
+                  "romaji": "kaigi ni ikou ka iku mai ka, mayotte iru.",
                   "character": "N2语法例句",
-                  "translation": "是去还是不去",
+                  "translation": "是去开会还是不去，正在犹豫。",
                   "grammarPoint": "～うか～まいか（接续：動意向形＋か＋同一動辞書形＋まいか）表示「是...还是不..., 表犹豫。",
                   "words": [
                     {
@@ -11755,7 +11424,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "行こう / か / 行く / まいか",
+                    "rhythm": "会議に行こうか行くまいか / 迷っている /",
                     "stress": "**いこ**う / か / **い**く / **まい**か",
                     "emotion": "犹豫、抉择"
                   },
@@ -11764,11 +11433,11 @@
                 },
                 {
                   "id": "ja_n2_134",
-                  "text": "抗議の声が上がることから",
-                  "kana": "こうぎのこえがあがることから",
-                  "romaji": "kougi no koe ga agaru koto kara",
+                  "text": "抗議の声が上がることから、不満が大きいとわかる。",
+                  "kana": "こうぎのこえがあがることから、ふまんがおおきいとわかる。",
+                  "romaji": "kougi no koe ga agaru koto kara, fuman ga ookii to wakaru.",
                   "character": "N2语法例句",
-                  "translation": "从抗议之声四起来看",
+                  "translation": "从抗议之声四起，可知不满很大。",
                   "grammarPoint": "～ことから（接续：動辞書形/た形＋ことから）表示「从...可以推断, 给出推断依据。",
                   "words": [
                     {
@@ -11861,7 +11530,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "抗議の / 声が / 上がる / ことから",
+                    "rhythm": "抗議の声が上がることから / 不満が大きいとわかる /",
                     "stress": "**こうぎ**の / **こえ**が / **あ**がる / **こと**から",
                     "emotion": "推断、依据"
                   },
@@ -11870,11 +11539,11 @@
                 },
                 {
                   "id": "ja_n2_135",
-                  "text": "オリンピック開催にあたって",
-                  "kana": "おりんぴっくかいさいにあたって",
-                  "romaji": "orinpikku kaisai ni atatte",
+                  "text": "オリンピック開催にあたって、万全の準備が必要だ。",
+                  "kana": "おりんぴっくかいさいにあたって、ばんぜんのじゅんびがひつようだ。",
+                  "romaji": "orinpikku kaisai ni atatte, banzen no junbi ga hitsuyou da.",
                   "character": "N2语法例句",
-                  "translation": "在举办奥运会之际",
+                  "translation": "在举办奥运会之际，需要万全准备。",
                   "grammarPoint": "～にあたって（接续：名＋にあたって）表示「在...之际, 多用于正式重大场合。",
                   "words": [
                     {
@@ -11946,7 +11615,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "オリンピック / 開催 / に / あたって",
+                    "rhythm": "オリンピック開催にあたって / 万全の準備が必要だ /",
                     "stress": "**おりんぴっく** / **かいさい** / に / **あた**って",
                     "emotion": "郑重、重大场合"
                   },
@@ -11955,11 +11624,11 @@
                 },
                 {
                   "id": "ja_n2_136",
-                  "text": "賃金に加えて",
-                  "kana": "ちんぎんにくわえて",
-                  "romaji": "chingin ni kuwaete",
+                  "text": "賃金に加えて、ボーナスも出る。",
+                  "kana": "ちんぎんにくわえて、ぼーなすもでる。",
+                  "romaji": "chingin ni kuwaete, boonasu mo deru.",
                   "character": "N2语法例句",
-                  "translation": "在工资之外",
+                  "translation": "工资之外还有奖金。",
                   "grammarPoint": "～に加えて（接续：名＋に加えて）表示「在...基础上还加上..., 表叠加。",
                   "words": [
                     {
@@ -12027,7 +11696,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "賃金 / に / 加えて",
+                    "rhythm": "賃金に加えて / ボーナスも出る /",
                     "stress": "**ちんぎん** / に / **くわ**えて",
                     "emotion": "叠加"
                   },
@@ -12036,11 +11705,11 @@
                 },
                 {
                   "id": "ja_n2_083",
-                  "text": "たくさん食べる",
-                  "kana": "たくさんたべる",
-                  "romaji": "takusan taberu",
+                  "text": "彼は毎日たくさん食べる。",
+                  "kana": "かれはまいにちたくさんたべる。",
+                  "romaji": "kare wa mainichi takusan taberu.",
                   "character": "N2语法例句",
-                  "translation": "吃很多",
+                  "translation": "他每天吃很多。",
                   "grammarPoint": "～する（普通动词句）此处OCR截断,补全为动词辞书形,与下文连接。",
                   "words": [
                     {
@@ -12087,7 +11756,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "たくさん / 食べる",
+                    "rhythm": "彼は毎日たくさん食べる /",
                     "stress": "**たく**さん / **た**べる",
                     "emotion": "陈述"
                   },
@@ -12096,11 +11765,11 @@
                 },
                 {
                   "id": "ja_n2_105",
-                  "text": "人気店だけあって",
-                  "kana": "にんきてんだけあって",
-                  "romaji": "ninki ten dake atte",
+                  "text": "人気店だけあって、いつも行列ができる。",
+                  "kana": "にんきてんだけあって、いつもぎょうれつができる。",
+                  "romaji": "ninkiten dake atte, itsumo gyouretsu ga dekiru.",
                   "character": "N2语法例句",
-                  "translation": "不愧是人气店",
+                  "translation": "不愧是人气店，总是排长队。",
                   "grammarPoint": "～だけあって（接续：名/動辞書形＋だけあって）表示「不愧是.../毕竟..., 与身份/能力相称。",
                   "words": [
                     {
@@ -12172,7 +11841,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "人気店 / だけ / あって",
+                    "rhythm": "人気店だけあって / いつも行列ができる /",
                     "stress": "**にんきてん** / **だけ** / **あって**",
                     "emotion": "赞许、相称"
                   },
@@ -12181,11 +11850,11 @@
                 },
                 {
                   "id": "ja_n2_112",
-                  "text": "ほしいと思いつつも",
-                  "kana": "ほしいとおもいつつも",
-                  "romaji": "hoshii to omoi tsutsu mo",
+                  "text": "車がほしいと思いつつも、金がない。",
+                  "kana": "くるまがほしいとおもいつつも、かねがない。",
+                  "romaji": "kuruma ga hoshii to omoi tsutsu mo, kane ga nai.",
                   "character": "N2语法例句",
-                  "translation": "虽然想要",
+                  "translation": "虽然想要车，但没钱。",
                   "grammarPoint": "～つつ（も）（接续：動ます形＋つつ）表示「虽然...但是..., 与～のに/が相近, 多书面。",
                   "words": [
                     {
@@ -12261,7 +11930,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "ほしい / と / 思い / つつも",
+                    "rhythm": "車がほしいと思いつつも / 金がない /",
                     "stress": "**ほし**い / と / **おも**い / **つつ**も",
                     "emotion": "逆接、矛盾"
                   },
@@ -12270,11 +11939,11 @@
                 },
                 {
                   "id": "ja_n2_044",
-                  "text": "がんばりようがない",
-                  "kana": "がんばりようがない",
-                  "romaji": "ganbari you ga nai",
+                  "text": "これ以上、がんばりようがない。",
+                  "kana": "これいじょう、がんばりようがない。",
+                  "romaji": "kore ijou, ganbari you ga nai.",
                   "character": "N2语法例句",
-                  "translation": "无法努力了/无从下手",
+                  "translation": "再也无法努力了。",
                   "grammarPoint": "～ようがない（接续：動ます形＋ようがない）表示「无法.../无从..., 找不到方法。",
                   "words": [
                     {
@@ -12342,7 +12011,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "がんばり / よう / がない",
+                    "rhythm": "これ以上 / がんばりようがない /",
                     "stress": "がん**ば**り / **よう** / が **ない**",
                     "emotion": "无奈、无从"
                   },
@@ -12351,11 +12020,11 @@
                 },
                 {
                   "id": "ja_n2_087",
-                  "text": "食べ続けることだ",
-                  "kana": "たべつづけることだ",
-                  "romaji": "tabetsuzukeru koto da",
+                  "text": "健康のためには、野菜を食べ続けることだ。",
+                  "kana": "けんこうのためには、やさいをたべつづけることだ。",
+                  "romaji": "kenkou no tame ni wa, yasai o tabetsuzukeru koto da.",
                   "character": "N2语法例句",
-                  "translation": "就是要持续吃",
+                  "translation": "为了健康，就要持续吃蔬菜。",
                   "grammarPoint": "～ことだ（接续：動辞書形/ない形＋ことだ）表示「应该.../就是要..., 给出建议。",
                   "words": [
                     {
@@ -12410,7 +12079,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "食べ続ける / ことだ",
+                    "rhythm": "健康のためには / 野菜を食べ続けることだ /",
                     "stress": "たべ**つづける** / **こと**だ",
                     "emotion": "建议、强调"
                   },
@@ -12419,11 +12088,11 @@
                 },
                 {
                   "id": "ja_n2_093",
-                  "text": "ストレスを感じない人はいるまい",
-                  "kana": "すとれすをかんじないひとはいるまい",
-                  "romaji": "sutoresu o kanjinai hito wa iru mai",
+                  "text": "ストレスを感じない人はいるまい。",
+                  "kana": "すとれすをかんじないひとはいるまい。",
+                  "romaji": "sutoresu o kanjinai hito wa iru mai.",
                   "character": "N2语法例句",
-                  "translation": "应该没有人感受不到压力吧",
+                  "translation": "应该没有人感受不到压力吧。",
                   "grammarPoint": "～まい（接续：動辞書形＋まい）表示「大概不.../不会..., 推量否定。",
                   "words": [
                     {
@@ -12537,7 +12206,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "ストレスを / 感じない / 人は / いる / まい",
+                    "rhythm": "ストレスを感じない人はいるまい /",
                     "stress": "すと**れす**を / **かん**じない / **ひと**は / **いる** / **まい**",
                     "emotion": "推量、否定"
                   },
@@ -12546,11 +12215,11 @@
                 },
                 {
                   "id": "ja_n2_099",
-                  "text": "乗客が降りる",
-                  "kana": "じょうきゃくがおりる",
-                  "romaji": "joukyaku ga oriru",
+                  "text": "乗客が降りるのを待ってから、乗る。",
+                  "kana": "じょうきゃくがおりるのをまってから、のる。",
+                  "romaji": "joukyaku ga oriru no o matte kara, noru.",
                   "character": "N2语法例句",
-                  "translation": "乘客下车",
+                  "translation": "等乘客下车后再上车。",
                   "grammarPoint": "～る（普通动词句）OCR截断,补全为完整动词句。",
                   "words": [
                     {
@@ -12597,7 +12266,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "乗客が / 降りる",
+                    "rhythm": "乗客が降りるのを待ってから / 乗る /",
                     "stress": "じょう**きゃく**が / **お**りる",
                     "emotion": "陈述"
                   },
@@ -12606,11 +12275,11 @@
                 },
                 {
                   "id": "ja_n2_126",
-                  "text": "許しがたい",
-                  "kana": "ゆるしがたい",
-                  "romaji": "yurushi gatai",
+                  "text": "彼の行為は許しがたい。",
+                  "kana": "かれのこういはゆるしがたい。",
+                  "romaji": "kare no koui wa yurushi gatai.",
                   "character": "N2语法例句",
-                  "translation": "难以原谅",
+                  "translation": "他的行为难以原谅。",
                   "grammarPoint": "～がたい（接续：動ます形＋がたい）表示「难以..., 表心理上难以做到。",
                   "words": [
                     {
@@ -12657,7 +12326,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "許し / がたい",
+                    "rhythm": "彼の行為は許しがたい /",
                     "stress": "**ゆる**し / **がた**い",
                     "emotion": "心理、难以"
                   },
@@ -12666,11 +12335,11 @@
                 },
                 {
                   "id": "ja_n2_132",
-                  "text": "国を挙げてのものだ",
-                  "kana": "くにをあげてのものだ",
-                  "romaji": "kuni o agete no mono da",
+                  "text": "この祭りは国を挙げてのものだ。",
+                  "kana": "このまつりはくにをあげてのものだ。",
+                  "romaji": "kono matsuri wa kuni o agete no mono da.",
                   "character": "N2语法例句",
-                  "translation": "是全国上下齐心的产物",
+                  "translation": "这个祭典是举国上下的产物。",
                   "grammarPoint": "～を挙げて（接续：名＋を挙げて）表示「举国/全部..., 全力以赴。",
                   "words": [
                     {
@@ -12750,7 +12419,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "国を / 挙げて / のものだ",
+                    "rhythm": "この祭りは国を挙げてのものだ /",
                     "stress": "**くに**を / **あ**げて / の**もの**だ",
                     "emotion": "强调、全力以赴"
                   },
@@ -12759,11 +12428,11 @@
                 },
                 {
                   "id": "ja_n2_104",
-                  "text": "ラーメンはしょう油に隠る",
-                  "kana": "らーめんはしょうゆにかくれる",
-                  "romaji": "raamen wa shouyu ni kakureru",
+                  "text": "ラーメンの味はしょう油に隠ることが多い。",
+                  "kana": "らーめんのあじはしょうゆにかくれることがおおい。",
+                  "romaji": "raamen no aji wa shouyu ni kakureru koto ga ooi.",
                   "character": "N2语法例句",
-                  "translation": "拉面藏于酱油（指其味道被酱油主导）",
+                  "translation": "拉面的味道常被酱油掩盖。",
                   "grammarPoint": "～に隠る（接续：名＋に隠る）表示「被...掩盖, 此处「しょう油为OCR修正（原「しょうに隊る为错字）。",
                   "words": [
                     {
@@ -12856,7 +12525,7 @@
                     }
                   ],
                   "memorizationTips": {
-                    "rhythm": "ラーメンは / しょう油に / 隠る",
+                    "rhythm": "ラーメンの味はしょう油に隠ることが多い /",
                     "stress": "**らーめん**は / **しょう**ゆに / **かく**れる",
                     "emotion": "陈述、隐喻"
                   },
