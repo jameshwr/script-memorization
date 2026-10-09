@@ -61,7 +61,7 @@
                       },
                       "exKr": "그는 여전히 젊어 보인다.",
                       "exCn": "他看起来依然年轻。",
-                      "audio": ""
+                      "audio": "audio/words/w_5d044dc8.mp3"
                     },
                     {
                       "text": "냉기",
@@ -72,7 +72,7 @@
                       "morph": null,
                       "exKr": "냉기가 느껴지다.",
                       "exCn": "感觉到寒气。",
-                      "audio": ""
+                      "audio": "audio/words/w_5061748e.mp3"
                     },
                     {
                       "text": "가득했지만",
@@ -101,7 +101,7 @@
                       },
                       "exKr": "방에 사람이 가득하다.",
                       "exCn": "房间里挤满了人。",
-                      "audio": ""
+                      "audio": "audio/words/w_16269418.mp3"
                     },
                     {
                       "text": "가슴은",
@@ -126,7 +126,7 @@
                       },
                       "exKr": "가슴이 두근거리다.",
                       "exCn": "心跳加速。",
-                      "audio": ""
+                      "audio": "audio/words/w_7443cf79.mp3"
                     },
                     {
                       "text": "뜨거웠고",
@@ -155,7 +155,7 @@
                       },
                       "exKr": "날씨가 뜨겁다.",
                       "exCn": "天气炎热。",
-                      "audio": ""
+                      "audio": "audio/words/w_450e380e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -217,7 +217,7 @@
                       },
                       "exKr": "그 집은 살림이 넉넉하다.",
                       "exCn": "那户人家家境宽裕。",
-                      "audio": ""
+                      "audio": "audio/words/w_423aaa41.mp3"
                     },
                     {
                       "text": "않았지만",
@@ -246,7 +246,7 @@
                       },
                       "exKr": "나는 그 사람을 잘 알지는 못한다.",
                       "exCn": "我并不太了解那个人。",
-                      "audio": ""
+                      "audio": "audio/words/w_da2e678f.mp3"
                     },
                     {
                       "text": "마음만은",
@@ -275,7 +275,7 @@
                       },
                       "exKr": "마음이 따뜻하다.",
                       "exCn": "心地温暖。",
-                      "audio": ""
+                      "audio": "audio/words/w_247fda3c.mp3"
                     },
                     {
                       "text": "따듯했던",
@@ -304,7 +304,7 @@
                       },
                       "exKr": "날씨가 따뜻하다.",
                       "exCn": "天气暖和。",
-                      "audio": ""
+                      "audio": "audio/words/w_6adf1906.mp3"
                     },
                     {
                       "text": "시절이",
@@ -329,7 +329,7 @@
                       },
                       "exKr": "학생 시절이 그립다.",
                       "exCn": "怀念学生时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_b5ca1068.mp3"
                     },
                     {
                       "text": "있었다.",
@@ -358,7 +358,7 @@
                       },
                       "exKr": "꿈이 있다.",
                       "exCn": "有梦想。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -402,7 +402,7 @@
                       "morph": null,
                       "exKr": "물론 그렇다.",
                       "exCn": "当然是这样。",
-                      "audio": ""
+                      "audio": "audio/words/w_09614a11.mp3"
                     },
                     {
                       "text": "뭐",
@@ -423,7 +423,7 @@
                       },
                       "exKr": "뭐 하고 있어?",
                       "exCn": "你在做什么？",
-                      "audio": ""
+                      "audio": "audio/words/w_6e39cb4f.mp3"
                     },
                     {
                       "text": "요즘과",
@@ -448,7 +448,7 @@
                       },
                       "exKr": "요즘 날씨가 춥다.",
                       "exCn": "最近天气冷。",
-                      "audio": ""
+                      "audio": "audio/words/w_4659c5a4.mp3"
                     },
                     {
                       "text": "비교하자면",
@@ -473,7 +473,7 @@
                       },
                       "exKr": "두 사람을 비교하다.",
                       "exCn": "比较两个人。",
-                      "audio": ""
+                      "audio": "audio/words/w_86a23069.mp3"
                     },
                     {
                       "text": "구석기",
@@ -484,7 +484,7 @@
                       "morph": null,
                       "exKr": "구석기 시대.",
                       "exCn": "旧石器时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_46a59703.mp3"
                     },
                     {
                       "text": "시대와",
@@ -509,7 +509,7 @@
                       },
                       "exKr": "그 시대 사람들.",
                       "exCn": "那个时代的人们。",
-                      "audio": ""
+                      "audio": "audio/words/w_cb577db3.mp3"
                     },
                     {
                       "text": "다를",
@@ -534,7 +534,7 @@
                       },
                       "exKr": "나는 너와 다르다.",
                       "exCn": "我和你不同。",
-                      "audio": ""
+                      "audio": "audio/words/w_2b55447a.mp3"
                     },
                     {
                       "text": "바",
@@ -545,7 +545,7 @@
                       "morph": null,
                       "exKr": "다를 바 없다.",
                       "exCn": "没什么两样。",
-                      "audio": ""
+                      "audio": "audio/words/w_1101678e.mp3"
                     },
                     {
                       "text": "없는",
@@ -570,7 +570,7 @@
                       },
                       "exKr": "돈이 없다.",
                       "exCn": "没有钱。",
-                      "audio": ""
+                      "audio": "audio/words/w_14e5b70e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -628,7 +628,7 @@
                       },
                       "exKr": "명백한 사실이다.",
                       "exCn": "是明确的事实。",
-                      "audio": ""
+                      "audio": "audio/words/w_d838feee.mp3"
                     },
                     {
                       "text": "아날로그의",
@@ -653,7 +653,7 @@
                       },
                       "exKr": "아날로그 시계.",
                       "exCn": "模拟指针表。",
-                      "audio": ""
+                      "audio": "audio/words/w_d26fe4b1.mp3"
                     },
                     {
                       "text": "시대였지만",
@@ -686,7 +686,7 @@
                       },
                       "exKr": "그 시대였다.",
                       "exCn": "是那个时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_cb577db3.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -734,7 +734,7 @@
                       "morph": null,
                       "exKr": "그래도 해야 한다.",
                       "exCn": "即使这样也得做。",
-                      "audio": ""
+                      "audio": "audio/words/w_1ac8f6a9.mp3"
                     },
                     {
                       "text": "우리의",
@@ -759,7 +759,7 @@
                       },
                       "exKr": "우리 학교.",
                       "exCn": "我们学校。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "열여덟은",
@@ -784,7 +784,7 @@
                       },
                       "exKr": "열여덟 살.",
                       "exCn": "十八岁。",
-                      "audio": ""
+                      "audio": "audio/words/w_4e9102bc.mp3"
                     },
                     {
                       "text": "나름",
@@ -795,7 +795,7 @@
                       "morph": null,
                       "exKr": "제 나름대로 하다.",
                       "exCn": "按自己的方式做。",
-                      "audio": ""
+                      "audio": "audio/words/w_5ef6e89f.mp3"
                     },
                     {
                       "text": "최첨단을",
@@ -820,7 +820,7 @@
                       },
                       "exKr": "최첨단 기술.",
                       "exCn": "尖端技术。",
-                      "audio": ""
+                      "audio": "audio/words/w_26f4e2a6.mp3"
                     },
                     {
                       "text": "살고",
@@ -845,7 +845,7 @@
                       },
                       "exKr": "20년간 이 동네에서 살았다.",
                       "exCn": "在这个小区住了20年。",
-                      "audio": ""
+                      "audio": "audio/words/w_172e0666.mp3"
                     },
                     {
                       "text": "있었다.",
@@ -874,7 +874,7 @@
                       },
                       "exKr": "공부하고 있다.",
                       "exCn": "正在学习。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -936,7 +936,7 @@
                       },
                       "exKr": "지금 시간.",
                       "exCn": "现在的时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_50596b41.mp3"
                     },
                     {
                       "text": "슬립온",
@@ -947,7 +947,7 @@
                       "morph": null,
                       "exKr": "슬립온 신발.",
                       "exCn": "一脚蹬鞋。",
-                      "audio": ""
+                      "audio": "audio/words/w_346fc724.mp3"
                     },
                     {
                       "text": "운동화를",
@@ -972,7 +972,7 @@
                       },
                       "exKr": "운동화를 신다.",
                       "exCn": "穿运动鞋。",
-                      "audio": ""
+                      "audio": "audio/words/w_a022052e.mp3"
                     },
                     {
                       "text": "역사상",
@@ -997,7 +997,7 @@
                       },
                       "exKr": "역사상 최초.",
                       "exCn": "历史上最初。",
-                      "audio": ""
+                      "audio": "audio/words/w_3ac99af3.mp3"
                     },
                     {
                       "text": "가장",
@@ -1008,7 +1008,7 @@
                       "morph": null,
                       "exKr": "가장 좋다.",
                       "exCn": "最好。",
-                      "audio": ""
+                      "audio": "audio/words/w_291605f7.mp3"
                     },
                     {
                       "text": "먼저",
@@ -1019,7 +1019,7 @@
                       "morph": null,
                       "exKr": "먼저 가세요.",
                       "exCn": "请先走。",
-                      "audio": ""
+                      "audio": "audio/words/w_bc09d83a.mp3"
                     },
                     {
                       "text": "신고",
@@ -1044,7 +1044,7 @@
                       },
                       "exKr": "신발을 신다.",
                       "exCn": "穿鞋。",
-                      "audio": ""
+                      "audio": "audio/words/w_fe8f0409.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -1092,7 +1092,7 @@
                       "morph": null,
                       "exKr": "그 사람.",
                       "exCn": "那个人。",
-                      "audio": ""
+                      "audio": "audio/words/w_8ebf6dc6.mp3"
                     },
                     {
                       "text": "위에",
@@ -1117,7 +1117,7 @@
                       },
                       "exKr": "책상 위에.",
                       "exCn": "在桌子上。",
-                      "audio": ""
+                      "audio": "audio/words/w_a549476c.mp3"
                     },
                     {
                       "text": "무려",
@@ -1128,7 +1128,7 @@
                       "morph": null,
                       "exKr": "무려 100점이다.",
                       "exCn": "竟然100分。",
-                      "audio": ""
+                      "audio": "audio/words/w_cebde596.mp3"
                     },
                     {
                       "text": "청청패션을",
@@ -1153,7 +1153,7 @@
                       },
                       "exKr": "청청패션을 입다.",
                       "exCn": "穿双牛仔装。",
-                      "audio": ""
+                      "audio": "audio/words/w_80be432b.mp3"
                     },
                     {
                       "text": "걸치고는",
@@ -1182,7 +1182,7 @@
                       },
                       "exKr": "겉옷을 걸치다.",
                       "exCn": "披上外衣。",
-                      "audio": ""
+                      "audio": "audio/words/w_93e874a7.mp3"
                     },
                     {
                       "text": "워크맨으로",
@@ -1207,7 +1207,7 @@
                       },
                       "exKr": "워크맨으로 듣다.",
                       "exCn": "用随身听听。",
-                      "audio": ""
+                      "audio": "audio/words/w_a124f296.mp3"
                     },
                     {
                       "text": "신해철의",
@@ -1232,7 +1232,7 @@
                       },
                       "exKr": "신해철 노래.",
                       "exCn": "申海澈的歌。",
-                      "audio": ""
+                      "audio": "audio/words/w_ff4fce46.mp3"
                     },
                     {
                       "text": "노래를",
@@ -1257,7 +1257,7 @@
                       },
                       "exKr": "노래를 부르다.",
                       "exCn": "唱歌。",
-                      "audio": ""
+                      "audio": "audio/words/w_c1ac6289.mp3"
                     },
                     {
                       "text": "들었다.",
@@ -1290,7 +1290,7 @@
                       },
                       "exKr": "음악을 듣다.",
                       "exCn": "听音乐。",
-                      "audio": ""
+                      "audio": "audio/words/w_31bfb614.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -1360,7 +1360,7 @@
                       },
                       "exKr": "남자들이 많다.",
                       "exCn": "男人很多。",
-                      "audio": ""
+                      "audio": "audio/words/w_ade8c6f2.mp3"
                     },
                     {
                       "text": "쏘머즈와",
@@ -1385,7 +1385,7 @@
                       },
                       "exKr": "A와 B.",
                       "exCn": "A和B。",
-                      "audio": ""
+                      "audio": "audio/words/w_82cacfd5.mp3"
                     },
                     {
                       "text": "왕조현과",
@@ -1410,7 +1410,7 @@
                       },
                       "exKr": "왕조현 영화.",
                       "exCn": "王祖贤的电影。",
-                      "audio": ""
+                      "audio": "audio/words/w_a101528a.mp3"
                     },
                     {
                       "text": "소피마르소와",
@@ -1435,7 +1435,7 @@
                       },
                       "exKr": "소피마르소의 영화.",
                       "exCn": "苏菲·玛索的电影。",
-                      "audio": ""
+                      "audio": "audio/words/w_8ba46d50.mp3"
                     },
                     {
                       "text": "히메나",
@@ -1446,7 +1446,7 @@
                       "morph": null,
                       "exKr": "히메나 선생님.",
                       "exCn": "Himena老师。",
-                      "audio": ""
+                      "audio": "audio/words/w_596e7d20.mp3"
                     },
                     {
                       "text": "선생님에게",
@@ -1471,7 +1471,7 @@
                       },
                       "exKr": "선생님께 물어보다.",
                       "exCn": "问老师。",
-                      "audio": ""
+                      "audio": "audio/words/w_9564f603.mp3"
                     },
                     {
                       "text": "열광했고",
@@ -1500,7 +1500,7 @@
                       },
                       "exKr": "팬들이 열광하다.",
                       "exCn": "粉丝狂热。",
-                      "audio": ""
+                      "audio": "audio/words/w_845a73dd.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -1562,7 +1562,7 @@
                       },
                       "exKr": "우린 학생이야.",
                       "exCn": "我们是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "레",
@@ -1573,7 +1573,7 @@
                       "morph": null,
                       "exKr": "레 턴스틸.",
                       "exCn": "Rex Turner Stall。",
-                      "audio": ""
+                      "audio": "audio/words/w_c61f1c32.mp3"
                     },
                     {
                       "text": "턴스틸과",
@@ -1598,7 +1598,7 @@
                       },
                       "exKr": "턴스틸과 친구.",
                       "exCn": "Turner Stall和朋友。",
-                      "audio": ""
+                      "audio": "audio/words/w_c057cd25.mp3"
                     },
                     {
                       "text": "탐크루즈와",
@@ -1623,7 +1623,7 @@
                       },
                       "exKr": "탐크루즈 영화.",
                       "exCn": "汤姆·克鲁斯的电影。",
-                      "audio": ""
+                      "audio": "audio/words/w_6c7dd85f.mp3"
                     },
                     {
                       "text": "리차드기어와",
@@ -1648,7 +1648,7 @@
                       },
                       "exKr": "리차드기어 배우.",
                       "exCn": "理查·基尔演员。",
-                      "audio": ""
+                      "audio": "audio/words/w_80acab57.mp3"
                     },
                     {
                       "text": "뉴키즈온더블록",
@@ -1659,7 +1659,7 @@
                       "morph": null,
                       "exKr": "뉴키즈온더블록 노래.",
                       "exCn": "New Kids on the Block的歌。",
-                      "audio": ""
+                      "audio": "audio/words/w_732b4e33.mp3"
                     },
                     {
                       "text": "오빠들에게",
@@ -1688,7 +1688,7 @@
                       },
                       "exKr": "오빠들에게 전화하다.",
                       "exCn": "给哥哥们打电话。",
-                      "audio": ""
+                      "audio": "audio/words/w_b978e005.mp3"
                     },
                     {
                       "text": "미쳐있었다.",
@@ -1725,7 +1725,7 @@
                       },
                       "exKr": "그는 음악에 미쳐 있다.",
                       "exCn": "他痴迷音乐。",
-                      "audio": ""
+                      "audio": "audio/words/w_ee07e7e9.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -1777,7 +1777,7 @@
                       "morph": null,
                       "exKr": "하지만 나는 안 간다.",
                       "exCn": "但是我不去。",
-                      "audio": ""
+                      "audio": "audio/words/w_385db2e7.mp3"
                     },
                     {
                       "text": "남녀를",
@@ -1802,7 +1802,7 @@
                       },
                       "exKr": "남녀 노소.",
                       "exCn": "男女老少。",
-                      "audio": ""
+                      "audio": "audio/words/w_9c776b07.mp3"
                     },
                     {
                       "text": "불문하고",
@@ -1827,7 +1827,7 @@
                       },
                       "exKr": "성별을 불문하다.",
                       "exCn": "不论性别。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea3e70e7.mp3"
                     },
                     {
                       "text": "그",
@@ -1838,7 +1838,7 @@
                       "morph": null,
                       "exKr": "그 시절.",
                       "exCn": "那个年代。",
-                      "audio": ""
+                      "audio": "audio/words/w_8ebf6dc6.mp3"
                     },
                     {
                       "text": "시절",
@@ -1849,7 +1849,7 @@
                       "morph": null,
                       "exKr": "학생 시절.",
                       "exCn": "学生时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_b5ca1068.mp3"
                     },
                     {
                       "text": "청춘들이",
@@ -1878,7 +1878,7 @@
                       },
                       "exKr": "청춘이 아깝다.",
                       "exCn": "青春可惜。",
-                      "audio": ""
+                      "audio": "audio/words/w_6aaec6f9.mp3"
                     },
                     {
                       "text": "가장",
@@ -1889,7 +1889,7 @@
                       "morph": null,
                       "exKr": "가장 좋다.",
                       "exCn": "最好。",
-                      "audio": ""
+                      "audio": "audio/words/w_291605f7.mp3"
                     },
                     {
                       "text": "사랑했던",
@@ -1918,7 +1918,7 @@
                       },
                       "exKr": "사랑했던 사람.",
                       "exCn": "爱过的人。",
-                      "audio": ""
+                      "audio": "audio/words/w_611c26f1.mp3"
                     },
                     {
                       "text": "단",
@@ -1929,7 +1929,7 @@
                       "morph": null,
                       "exKr": "단 하나.",
                       "exCn": "仅一个。",
-                      "audio": ""
+                      "audio": "audio/words/w_8a65a93d.mp3"
                     },
                     {
                       "text": "한편의",
@@ -1954,7 +1954,7 @@
                       },
                       "exKr": "한편의 영화.",
                       "exCn": "一部电影。",
-                      "audio": ""
+                      "audio": "audio/words/w_5ad46033.mp3"
                     },
                     {
                       "text": "영화가",
@@ -1979,7 +1979,7 @@
                       },
                       "exKr": "영화를 보다.",
                       "exCn": "看电影。",
-                      "audio": ""
+                      "audio": "audio/words/w_2934c20a.mp3"
                     },
                     {
                       "text": "있었다.",
@@ -2008,7 +2008,7 @@
                       },
                       "exKr": "꿈이 있다.",
                       "exCn": "有梦想。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2052,7 +2052,7 @@
                       "morph": null,
                       "exKr": "우리 딸.",
                       "exCn": "我女儿。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "딸이",
@@ -2077,7 +2077,7 @@
                       },
                       "exKr": "딸이 있다.",
                       "exCn": "有女儿。",
-                      "audio": ""
+                      "audio": "audio/words/w_94455dff.mp3"
                     },
                     {
                       "text": "아주",
@@ -2088,7 +2088,7 @@
                       "morph": null,
                       "exKr": "아주 좋다.",
                       "exCn": "非常好。",
-                      "audio": ""
+                      "audio": "audio/words/w_ed69c887.mp3"
                     },
                     {
                       "text": "예쁘대",
@@ -2113,7 +2113,7 @@
                       },
                       "exKr": "예쁜 딸.",
                       "exCn": "漂亮的女儿。",
-                      "audio": ""
+                      "audio": "audio/words/w_e78d115a.mp3"
                     },
                     {
                       "text": "눈은",
@@ -2138,7 +2138,7 @@
                       },
                       "exKr": "눈이 크다.",
                       "exCn": "眼睛大。",
-                      "audio": ""
+                      "audio": "audio/words/w_0726db86.mp3"
                     },
                     {
                       "text": "날",
@@ -2163,7 +2163,7 @@
                       },
                       "exKr": "날 좋아해?",
                       "exCn": "喜欢我吗？",
-                      "audio": ""
+                      "audio": "audio/words/w_4b709453.mp3"
                     },
                     {
                       "text": "닮았대",
@@ -2192,7 +2192,7 @@
                       },
                       "exKr": "엄마를 닮다.",
                       "exCn": "长得像妈妈。",
-                      "audio": ""
+                      "audio": "audio/words/w_faa112bb.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2254,7 +2254,7 @@
                       },
                       "exKr": "얘가 누구니?",
                       "exCn": "这孩子是谁？",
-                      "audio": ""
+                      "audio": "audio/words/w_034d5ddc.mp3"
                     },
                     {
                       "text": "이름은",
@@ -2279,7 +2279,7 @@
                       },
                       "exKr": "이름이 뭐야?",
                       "exCn": "名字是什么？",
-                      "audio": ""
+                      "audio": "audio/words/w_6eb5cd03.mp3"
                     },
                     {
                       "text": "류동룡",
@@ -2290,7 +2290,7 @@
                       "morph": null,
                       "exKr": "류동룡이 왔다.",
                       "exCn": "柳东龙来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_77729ca7.mp3"
                     },
                     {
                       "text": "꼬봉해",
@@ -2315,7 +2315,7 @@
                       },
                       "exKr": "꼬봉하듯 따라다니다.",
                       "exCn": "像跟班一样跟在后面。",
-                      "audio": ""
+                      "audio": "audio/words/w_894eebbf.mp3"
                     },
                     {
                       "text": "보이긴",
@@ -2340,7 +2340,7 @@
                       },
                       "exKr": "예뻐 보인다.",
                       "exCn": "看起来很漂亮。",
-                      "audio": ""
+                      "audio": "audio/words/w_0a32bd3a.mp3"
                     },
                     {
                       "text": "해도",
@@ -2365,7 +2365,7 @@
                       },
                       "exKr": "비가 와도 가다.",
                       "exCn": "即使下雨也去。",
-                      "audio": ""
+                      "audio": "audio/words/w_d8ff41ad.mp3"
                     },
                     {
                       "text": "나름",
@@ -2376,7 +2376,7 @@
                       "morph": null,
                       "exKr": "제 나름대로.",
                       "exCn": "按自己的方式。",
-                      "audio": ""
+                      "audio": "audio/words/w_5ef6e89f.mp3"
                     },
                     {
                       "text": "이",
@@ -2387,7 +2387,7 @@
                       "morph": null,
                       "exKr": "이 골목.",
                       "exCn": "这条巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_6f3ac528.mp3"
                     },
                     {
                       "text": "골목",
@@ -2398,7 +2398,7 @@
                       "morph": null,
                       "exKr": "좁은 골목.",
                       "exCn": "窄巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     },
                     {
                       "text": "카운슬러",
@@ -2409,7 +2409,7 @@
                       "morph": null,
                       "exKr": "학교 카운슬러.",
                       "exCn": "学校咨询师。",
-                      "audio": ""
+                      "audio": "audio/words/w_3798d37a.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2463,7 +2463,7 @@
                       },
                       "exKr": "아이씨, 짜증나.",
                       "exCn": "靠，烦死了。",
-                      "audio": ""
+                      "audio": "audio/words/w_050f6d24.mp3"
                     },
                     {
                       "text": "미친새끼",
@@ -2492,7 +2492,7 @@
                       },
                       "exKr": "미친놈아.",
                       "exCn": "你这疯子。",
-                      "audio": ""
+                      "audio": "audio/words/w_8e0dea61.mp3"
                     },
                     {
                       "text": "이따",
@@ -2513,7 +2513,7 @@
                       },
                       "exKr": "이따가 만나자.",
                       "exCn": "等会儿见。",
-                      "audio": ""
+                      "audio": "audio/words/w_738058ef.mp3"
                     },
                     {
                       "text": "좀",
@@ -2534,7 +2534,7 @@
                       },
                       "exKr": "좀 만나자.",
                       "exCn": "见个面吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_f5b98d99.mp3"
                     },
                     {
                       "text": "쳐먹지",
@@ -2559,7 +2559,7 @@
                       },
                       "exKr": "한 대 쳐먹다.",
                       "exCn": "揍一拳。",
-                      "audio": ""
+                      "audio": "audio/words/w_77947b82.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2613,7 +2613,7 @@
                       },
                       "exKr": "윗집 사람.",
                       "exCn": "楼上的人。",
-                      "audio": ""
+                      "audio": "audio/words/w_43839f8d.mp3"
                     },
                     {
                       "text": "사는",
@@ -2638,7 +2638,7 @@
                       },
                       "exKr": "서울 사는 사람.",
                       "exCn": "住在首尔的人。",
-                      "audio": ""
+                      "audio": "audio/words/w_172e0666.mp3"
                     },
                     {
                       "text": "김정환",
@@ -2649,7 +2649,7 @@
                       "morph": null,
                       "exKr": "김정환이 왔다.",
                       "exCn": "金正焕来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_b31a1c9a.mp3"
                     },
                     {
                       "text": "꼬붕개",
@@ -2660,7 +2660,7 @@
                       "morph": null,
                       "exKr": "꼬붕개 노릇하다.",
                       "exCn": "当跟班。",
-                      "audio": ""
+                      "audio": "audio/words/w_d41e85fb.mp3"
                     },
                     {
                       "text": "아직",
@@ -2671,7 +2671,7 @@
                       "morph": null,
                       "exKr": "아직 모른다.",
                       "exCn": "还不知道。",
-                      "audio": ""
+                      "audio": "audio/words/w_fa51e375.mp3"
                     },
                     {
                       "text": "사람이",
@@ -2696,7 +2696,7 @@
                       },
                       "exKr": "사람이 많다.",
                       "exCn": "人很多。",
-                      "audio": ""
+                      "audio": "audio/words/w_61738cb6.mp3"
                     },
                     {
                       "text": "아니다",
@@ -2707,7 +2707,7 @@
                       "morph": null,
                       "exKr": "학생이 아니다.",
                       "exCn": "不是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea8360ee.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2751,7 +2751,7 @@
                       "morph": null,
                       "exKr": "이 방.",
                       "exCn": "这个房间。",
-                      "audio": ""
+                      "audio": "audio/words/w_6f3ac528.mp3"
                     },
                     {
                       "text": "방",
@@ -2762,7 +2762,7 @@
                       "morph": null,
                       "exKr": "작은 방.",
                       "exCn": "小房间。",
-                      "audio": ""
+                      "audio": "audio/words/w_5c8c70c2.mp3"
                     },
                     {
                       "text": "주인이자",
@@ -2787,7 +2787,7 @@
                       },
                       "exKr": "집 주인.",
                       "exCn": "房子的主人。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea0c278f.mp3"
                     },
                     {
                       "text": "잘나가는",
@@ -2812,7 +2812,7 @@
                       },
                       "exKr": "잘나가는 배우.",
                       "exCn": "当红的演员。",
-                      "audio": ""
+                      "audio": "audio/words/w_307ac015.mp3"
                     },
                     {
                       "text": "바둑기사",
@@ -2833,7 +2833,7 @@
                       },
                       "exKr": "프로 바둑기사.",
                       "exCn": "职业围棋手。",
-                      "audio": ""
+                      "audio": "audio/words/w_0d703c99.mp3"
                     },
                     {
                       "text": "택",
@@ -2844,7 +2844,7 @@
                       "morph": null,
                       "exKr": "최택이 왔다.",
                       "exCn": "崔泽来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_f98bdfda.mp3"
                     },
                     {
                       "text": "천재바둑기사",
@@ -2865,7 +2865,7 @@
                       },
                       "exKr": "천재 바둑기사 택.",
                       "exCn": "天才围棋手택。",
-                      "audio": ""
+                      "audio": "audio/words/w_21c80c21.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -2923,7 +2923,7 @@
                       },
                       "exKr": "그럼 가자.",
                       "exCn": "那走吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_9e9f3967.mp3"
                     },
                     {
                       "text": "뭐해",
@@ -2952,7 +2952,7 @@
                       },
                       "exKr": "지금 뭐해?",
                       "exCn": "现在干嘛？",
-                      "audio": ""
+                      "audio": "audio/words/w_3c37afd2.mp3"
                     },
                     {
                       "text": "여기선",
@@ -2981,7 +2981,7 @@
                       },
                       "exKr": "여기서 기다려.",
                       "exCn": "在这里等。",
-                      "audio": ""
+                      "audio": "audio/words/w_78230fa5.mp3"
                     },
                     {
                       "text": "상등신인데",
@@ -3010,7 +3010,7 @@
                       },
                       "exKr": "상등신 취급받다.",
                       "exCn": "被当作上等人对待。",
-                      "audio": ""
+                      "audio": "audio/words/w_556ad79a.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -3072,7 +3072,7 @@
                       },
                       "exKr": "부엌에서 요리하다.",
                       "exCn": "在厨房做菜。",
-                      "audio": ""
+                      "audio": "audio/words/w_e7b55ed3.mp3"
                     },
                     {
                       "text": "술빵",
@@ -3083,7 +3083,7 @@
                       "morph": null,
                       "exKr": "술빵을 먹다.",
                       "exCn": "吃酒面包。",
-                      "audio": ""
+                      "audio": "audio/words/w_046030ff.mp3"
                     },
                     {
                       "text": "남은",
@@ -3108,7 +3108,7 @@
                       },
                       "exKr": "남은 음식.",
                       "exCn": "剩的食物。",
-                      "audio": ""
+                      "audio": "audio/words/w_84d3935e.mp3"
                     },
                     {
                       "text": "거",
@@ -3129,7 +3129,7 @@
                       },
                       "exKr": "이게 뭐하는 거야?",
                       "exCn": "这是干什么的？",
-                      "audio": ""
+                      "audio": "audio/words/w_6d874351.mp3"
                     },
                     {
                       "text": "있더라",
@@ -3154,7 +3154,7 @@
                       },
                       "exKr": "거기 있더라.",
                       "exCn": "我记得在那儿。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     },
                     {
                       "text": "그것도",
@@ -3179,7 +3179,7 @@
                       },
                       "exKr": "그것도 주세요.",
                       "exCn": "那个也给我。",
-                      "audio": ""
+                      "audio": "audio/words/w_4196c303.mp3"
                     },
                     {
                       "text": "좀",
@@ -3200,7 +3200,7 @@
                       },
                       "exKr": "좀 주세요.",
                       "exCn": "给我一点。",
-                      "audio": ""
+                      "audio": "audio/words/w_f5b98d99.mp3"
                     },
                     {
                       "text": "우유도",
@@ -3225,7 +3225,7 @@
                       },
                       "exKr": "우유를 마시다.",
                       "exCn": "喝牛奶。",
-                      "audio": ""
+                      "audio": "audio/words/w_54235ee0.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -3291,7 +3291,7 @@
                       },
                       "exKr": "니가 뭔데!",
                       "exCn": "你算老几！",
-                      "audio": ""
+                      "audio": "audio/words/w_e18db6fd.mp3"
                     },
                     {
                       "text": "갖다",
@@ -3312,7 +3312,7 @@
                       },
                       "exKr": "이리 갖다 줘.",
                       "exCn": "拿过来给我。",
-                      "audio": ""
+                      "audio": "audio/words/w_264d4b59.mp3"
                     },
                     {
                       "text": "먹어",
@@ -3337,7 +3337,7 @@
                       },
                       "exKr": "밥 먹어.",
                       "exCn": "吃饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_a8d7fa09.mp3"
                     },
                     {
                       "text": "새끼야",
@@ -3362,7 +3362,7 @@
                       },
                       "exKr": "이 새끼야!",
                       "exCn": "你这小子！",
-                      "audio": ""
+                      "audio": "audio/words/w_c5139f9a.mp3"
                     },
                     {
                       "text": "택이",
@@ -3387,7 +3387,7 @@
                       },
                       "exKr": "택이 왔다.",
                       "exCn": "泽来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_f98bdfda.mp3"
                     },
                     {
                       "text": "간만에",
@@ -3412,7 +3412,7 @@
                       },
                       "exKr": "오랜 간만에 만났다.",
                       "exCn": "隔了很久才见面。",
-                      "audio": ""
+                      "audio": "audio/words/w_ff3f0531.mp3"
                     },
                     {
                       "text": "집에",
@@ -3437,7 +3437,7 @@
                       },
                       "exKr": "집에 가다.",
                       "exCn": "回家。",
-                      "audio": ""
+                      "audio": "audio/words/w_4f15583c.mp3"
                     },
                     {
                       "text": "왔는데",
@@ -3466,7 +3466,7 @@
                       },
                       "exKr": "친구가 왔는데.",
                       "exCn": "朋友来了（呢）。",
-                      "audio": ""
+                      "audio": "audio/words/w_c713b1c0.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -3528,7 +3528,7 @@
                       },
                       "exKr": "얘가 누구니?",
                       "exCn": "这孩子是谁？",
-                      "audio": ""
+                      "audio": "audio/words/w_034d5ddc.mp3"
                     },
                     {
                       "text": "선우",
@@ -3539,7 +3539,7 @@
                       "morph": null,
                       "exKr": "선우가 왔다.",
                       "exCn": "善宇来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_651ccff5.mp3"
                     },
                     {
                       "text": "이",
@@ -3550,7 +3550,7 @@
                       "morph": null,
                       "exKr": "이 골목.",
                       "exCn": "这条巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_6f3ac528.mp3"
                     },
                     {
                       "text": "골목",
@@ -3561,7 +3561,7 @@
                       "morph": null,
                       "exKr": "좁은 골목.",
                       "exCn": "窄巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     },
                     {
                       "text": "애들",
@@ -3586,7 +3586,7 @@
                       },
                       "exKr": "애들이 논다.",
                       "exCn": "孩子们在玩。",
-                      "audio": ""
+                      "audio": "audio/words/w_5750ac20.mp3"
                     },
                     {
                       "text": "중",
@@ -3597,7 +3597,7 @@
                       "morph": null,
                       "exKr": "학생들 중에서.",
                       "exCn": "在学生们当中。",
-                      "audio": ""
+                      "audio": "audio/words/w_2000c418.mp3"
                     },
                     {
                       "text": "그나마",
@@ -3608,7 +3608,7 @@
                       "morph": null,
                       "exKr": "그나마 다행이다.",
                       "exCn": "还算万幸。",
-                      "audio": ""
+                      "audio": "audio/words/w_9cff2fa6.mp3"
                     },
                     {
                       "text": "제일",
@@ -3619,7 +3619,7 @@
                       "morph": null,
                       "exKr": "제일 좋다.",
                       "exCn": "最好。",
-                      "audio": ""
+                      "audio": "audio/words/w_c6363c7f.mp3"
                     },
                     {
                       "text": "멀정하다",
@@ -3640,7 +3640,7 @@
                       },
                       "exKr": "멀쩡한 사람.",
                       "exCn": "正常人。",
-                      "audio": ""
+                      "audio": "audio/words/w_7ce1c312.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -3688,7 +3688,7 @@
                       "morph": null,
                       "exKr": "아우, 짜증나.",
                       "exCn": "啊——，烦死了。",
-                      "audio": ""
+                      "audio": "audio/words/w_ab90045c.mp3"
                     },
                     {
                       "text": "왜",
@@ -3699,7 +3699,7 @@
                       "morph": null,
                       "exKr": "왜 그래?",
                       "exCn": "怎么了？",
-                      "audio": ""
+                      "audio": "audio/words/w_0c98bf65.mp3"
                     },
                     {
                       "text": "나한테",
@@ -3724,7 +3724,7 @@
                       },
                       "exKr": "나한테 주세요.",
                       "exCn": "请给我。",
-                      "audio": ""
+                      "audio": "audio/words/w_4b709453.mp3"
                     },
                     {
                       "text": "지랄이야",
@@ -3753,7 +3753,7 @@
                       },
                       "exKr": "왜 지랄이야.",
                       "exCn": "发什么神经。",
-                      "audio": ""
+                      "audio": "audio/words/w_6e39a807.mp3"
                     },
                     {
                       "text": "아",
@@ -3764,7 +3764,7 @@
                       "morph": null,
                       "exKr": "아, 모르겠다.",
                       "exCn": "啊，不知道了。",
-                      "audio": ""
+                      "audio": "audio/words/w_fd5b7791.mp3"
                     },
                     {
                       "text": "몰라",
@@ -3789,7 +3789,7 @@
                       },
                       "exKr": "나도 몰라.",
                       "exCn": "我也不知道。",
-                      "audio": ""
+                      "audio": "audio/words/w_293941ff.mp3"
                     },
                     {
                       "text": "너",
@@ -3800,7 +3800,7 @@
                       "morph": null,
                       "exKr": "너 뭐해?",
                       "exCn": "你干嘛？",
-                      "audio": ""
+                      "audio": "audio/words/w_4e23994e.mp3"
                     },
                     {
                       "text": "때문이야",
@@ -3829,7 +3829,7 @@
                       },
                       "exKr": "너 때문이야.",
                       "exCn": "都怪你。",
-                      "audio": ""
+                      "audio": "audio/words/w_2d749da4.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -3891,7 +3891,7 @@
                       },
                       "exKr": "서핑을 즐기다.",
                       "exCn": "享受冲浪。",
-                      "audio": ""
+                      "audio": "audio/words/w_8a71e8f8.mp3"
                     },
                     {
                       "text": "해도",
@@ -3916,7 +3916,7 @@
                       },
                       "exKr": "비가 와도 가다.",
                       "exCn": "即使下雨也去。",
-                      "audio": ""
+                      "audio": "audio/words/w_d8ff41ad.mp3"
                     },
                     {
                       "text": "될",
@@ -3941,7 +3941,7 @@
                       },
                       "exKr": "내일 돼.",
                       "exCn": "明天也行。",
-                      "audio": ""
+                      "audio": "audio/words/w_7533c28d.mp3"
                     },
                     {
                       "text": "것 같은",
@@ -3970,7 +3970,7 @@
                       },
                       "exKr": "맛있는 것 같은 느낌.",
                       "exCn": "好像很好吃的感觉。",
-                      "audio": ""
+                      "audio": "audio/words/w_8e0cf6c9.mp3"
                     },
                     {
                       "text": "포풍웨이브",
@@ -3995,7 +3995,7 @@
                       },
                       "exKr": "포풍웨이브 머리.",
                       "exCn": "蓬松波浪发型。",
-                      "audio": ""
+                      "audio": "audio/words/w_7ea87d3a.mp3"
                     },
                     {
                       "text": "앞머리",
@@ -4016,7 +4016,7 @@
                       },
                       "exKr": "앞머리를 자르다.",
                       "exCn": "剪刘海。",
-                      "audio": ""
+                      "audio": "audio/words/w_151d9d1f.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4078,7 +4078,7 @@
                       },
                       "exKr": "그때 생각난다.",
                       "exCn": "想起那时候。",
-                      "audio": ""
+                      "audio": "audio/words/w_81a5df0a.mp3"
                     },
                     {
                       "text": "정말",
@@ -4089,7 +4089,7 @@
                       "morph": null,
                       "exKr": "정말 예쁘다.",
                       "exCn": "真的很漂亮。",
-                      "audio": ""
+                      "audio": "audio/words/w_d081097e.mp3"
                     },
                     {
                       "text": "저게",
@@ -4114,7 +4114,7 @@
                       },
                       "exKr": "저게 뭐야?",
                       "exCn": "那是什么？",
-                      "audio": ""
+                      "audio": "audio/words/w_03da1eb1.mp3"
                     },
                     {
                       "text": "최선이었다",
@@ -4147,7 +4147,7 @@
                       },
                       "exKr": "최선을 다하다.",
                       "exCn": "竭尽全力。",
-                      "audio": ""
+                      "audio": "audio/words/w_cc645094.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4195,7 +4195,7 @@
                       "morph": null,
                       "exKr": "아, 맞다.",
                       "exCn": "啊，对了。",
-                      "audio": ""
+                      "audio": "audio/words/w_fd5b7791.mp3"
                     },
                     {
                       "text": "우리도",
@@ -4220,7 +4220,7 @@
                       },
                       "exKr": "우리도 간다.",
                       "exCn": "我们也去。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "못",
@@ -4231,7 +4231,7 @@
                       "morph": null,
                       "exKr": "못 가다.",
                       "exCn": "不能去。",
-                      "audio": ""
+                      "audio": "audio/words/w_203044fe.mp3"
                     },
                     {
                       "text": "들었어",
@@ -4264,7 +4264,7 @@
                       },
                       "exKr": "노래를 들었어.",
                       "exCn": "听了歌。",
-                      "audio": ""
+                      "audio": "audio/words/w_31bfb614.mp3"
                     },
                     {
                       "text": "송우현이래",
@@ -4289,7 +4289,7 @@
                       },
                       "exKr": "송우현 노래.",
                       "exCn": "宋佑铉的歌。",
-                      "audio": ""
+                      "audio": "audio/words/w_fab74724.mp3"
                     },
                     {
                       "text": "송우현",
@@ -4300,7 +4300,7 @@
                       "morph": null,
                       "exKr": "송우현이 부르다.",
                       "exCn": "宋佑铉唱的。",
-                      "audio": ""
+                      "audio": "audio/words/w_fab74724.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4362,7 +4362,7 @@
                       },
                       "exKr": "덕선아, 이리 와.",
                       "exCn": "德善啊，过来。",
-                      "audio": ""
+                      "audio": "audio/words/w_899b8015.mp3"
                     },
                     {
                       "text": "밥",
@@ -4373,7 +4373,7 @@
                       "morph": null,
                       "exKr": "밥을 먹다.",
                       "exCn": "吃饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_f56bae24.mp3"
                     },
                     {
                       "text": "먹어라",
@@ -4398,7 +4398,7 @@
                       },
                       "exKr": "밥 먹어라.",
                       "exCn": "吃饭吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_a8d7fa09.mp3"
                     },
                     {
                       "text": "희뿌연",
@@ -4423,7 +4423,7 @@
                       },
                       "exKr": "희뿌연 새벽.",
                       "exCn": "灰蒙蒙的清晨。",
-                      "audio": ""
+                      "audio": "audio/words/w_0589f463.mp3"
                     },
                     {
                       "text": "연기",
@@ -4434,7 +4434,7 @@
                       "morph": null,
                       "exKr": "연기가 나다.",
                       "exCn": "冒烟。",
-                      "audio": ""
+                      "audio": "audio/words/w_65d641d6.mp3"
                     },
                     {
                       "text": "사이로",
@@ -4459,7 +4459,7 @@
                       },
                       "exKr": "사람들 사이로.",
                       "exCn": "穿过人群之间。",
-                      "audio": ""
+                      "audio": "audio/words/w_4845243f.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4511,7 +4511,7 @@
                       "morph": null,
                       "exKr": "아들이 둘이다.",
                       "exCn": "有两个儿子。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfdfe2db.mp3"
                     },
                     {
                       "text": "우리",
@@ -4522,7 +4522,7 @@
                       "morph": null,
                       "exKr": "우리 가족.",
                       "exCn": "我们一家。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "밥먹자",
@@ -4551,7 +4551,7 @@
                       },
                       "exKr": "같이 밥먹자.",
                       "exCn": "一起吃饭吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_413189b8.mp3"
                     },
                     {
                       "text": "없네",
@@ -4576,7 +4576,7 @@
                       },
                       "exKr": "돈이 없네.",
                       "exCn": "没钱啊。",
-                      "audio": ""
+                      "audio": "audio/words/w_14e5b70e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4634,7 +4634,7 @@
                       },
                       "exKr": "숙면을 취하다.",
                       "exCn": "保证睡眠。",
-                      "audio": ""
+                      "audio": "audio/words/w_9d323bf7.mp3"
                     },
                     {
                       "text": "있습니다",
@@ -4659,7 +4659,7 @@
                       },
                       "exKr": "방이 있습니다.",
                       "exCn": "有房间。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     },
                     {
                       "text": "잠잘방",
@@ -4688,7 +4688,7 @@
                       },
                       "exKr": "잠잘방을 구하다.",
                       "exCn": "找个能睡觉的房间。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea153627.mp3"
                     },
                     {
                       "text": "있습니다",
@@ -4713,7 +4713,7 @@
                       },
                       "exKr": "자리가 있습니다.",
                       "exCn": "有座位。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4775,7 +4775,7 @@
                       },
                       "exKr": "양담배를 피우다.",
                       "exCn": "抽洋烟。",
-                      "audio": ""
+                      "audio": "audio/words/w_b2477138.mp3"
                     },
                     {
                       "text": "있습니다",
@@ -4800,7 +4800,7 @@
                       },
                       "exKr": "물건이 있습니다.",
                       "exCn": "有货。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     },
                     {
                       "text": "영업",
@@ -4811,7 +4811,7 @@
                       "morph": null,
                       "exKr": "영업을 하다.",
                       "exCn": "营业。",
-                      "audio": ""
+                      "audio": "audio/words/w_f44049fc.mp3"
                     },
                     {
                       "text": "끝났습니다",
@@ -4840,7 +4840,7 @@
                       },
                       "exKr": "수업이 끝났습니다.",
                       "exCn": "下课了。",
-                      "audio": ""
+                      "audio": "audio/words/w_ff9047d5.mp3"
                     },
                     {
                       "text": "일곱시",
@@ -4865,7 +4865,7 @@
                       },
                       "exKr": "일곱시에 만나자.",
                       "exCn": "七点见。",
-                      "audio": ""
+                      "audio": "audio/words/w_f0af7331.mp3"
                     },
                     {
                       "text": "오픈",
@@ -4876,7 +4876,7 @@
                       "morph": null,
                       "exKr": "오전에 오픈하다.",
                       "exCn": "上午开门。",
-                      "audio": ""
+                      "audio": "audio/words/w_46e962b9.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -4924,7 +4924,7 @@
                       "morph": null,
                       "exKr": "서울에 살다.",
                       "exCn": "住在首尔。",
-                      "audio": ""
+                      "audio": "audio/words/w_d50fb2f9.mp3"
                     },
                     {
                       "text": "특별시",
@@ -4945,7 +4945,7 @@
                       },
                       "exKr": "서울 특별시.",
                       "exCn": "首尔特别市。",
-                      "audio": ""
+                      "audio": "audio/words/w_dc950a99.mp3"
                     },
                     {
                       "text": "도봉구",
@@ -4956,7 +4956,7 @@
                       "morph": null,
                       "exKr": "도봉구에 가다.",
                       "exCn": "去道峰区。",
-                      "audio": ""
+                      "audio": "audio/words/w_b7171145.mp3"
                     },
                     {
                       "text": "쌍문동",
@@ -4967,7 +4967,7 @@
                       "morph": null,
                       "exKr": "쌍문동 골목.",
                       "exCn": "双门洞小巷。",
-                      "audio": ""
+                      "audio": "audio/words/w_bd2fc2a2.mp3"
                     },
                     {
                       "text": "봉황당",
@@ -4988,7 +4988,7 @@
                       },
                       "exKr": "봉황당 골목.",
                       "exCn": "凤凰堂小巷。",
-                      "audio": ""
+                      "audio": "audio/words/w_02929dc9.mp3"
                     },
                     {
                       "text": "골목",
@@ -4999,7 +4999,7 @@
                       "morph": null,
                       "exKr": "우리 골목.",
                       "exCn": "我们巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5065,7 +5065,7 @@
                       },
                       "exKr": "난 학생이야.",
                       "exCn": "我是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_4b709453.mp3"
                     },
                     {
                       "text": "이",
@@ -5076,7 +5076,7 @@
                       "morph": null,
                       "exKr": "이 골목.",
                       "exCn": "这条巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_6f3ac528.mp3"
                     },
                     {
                       "text": "골목에서",
@@ -5101,7 +5101,7 @@
                       },
                       "exKr": "골목에서 놀다.",
                       "exCn": "在巷子里玩。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     },
                     {
                       "text": "태어나고",
@@ -5126,7 +5126,7 @@
                       },
                       "exKr": "서울에서 태어나다.",
                       "exCn": "在首尔出生。",
-                      "audio": ""
+                      "audio": "audio/words/w_2c93cf28.mp3"
                     },
                     {
                       "text": "자랐다",
@@ -5155,7 +5155,7 @@
                       },
                       "exKr": "시골에서 자라다.",
                       "exCn": "在乡下长大。",
-                      "audio": ""
+                      "audio": "audio/words/w_fa57c867.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5217,7 +5217,7 @@
                       },
                       "exKr": "인터넷으로 검색.",
                       "exCn": "用网络搜索。",
-                      "audio": ""
+                      "audio": "audio/words/w_913adbb6.mp3"
                     },
                     {
                       "text": "없고",
@@ -5242,7 +5242,7 @@
                       },
                       "exKr": "돈도 없고 시간도 없다.",
                       "exCn": "既没钱也没时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_14e5b70e.mp3"
                     },
                     {
                       "text": "스마트폰도",
@@ -5267,7 +5267,7 @@
                       },
                       "exKr": "스마트폰을 보다.",
                       "exCn": "看手机。",
-                      "audio": ""
+                      "audio": "audio/words/w_a5067cb7.mp3"
                     },
                     {
                       "text": "없던",
@@ -5292,7 +5292,7 @@
                       },
                       "exKr": "없던 돈이 생기다.",
                       "exCn": "没的钱出现了。",
-                      "audio": ""
+                      "audio": "audio/words/w_14e5b70e.mp3"
                     },
                     {
                       "text": "시절",
@@ -5303,7 +5303,7 @@
                       "morph": null,
                       "exKr": "학생 시절.",
                       "exCn": "学生时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_b5ca1068.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5363,7 +5363,7 @@
                       "morph": null,
                       "exKr": "지금 시간.",
                       "exCn": "现在的时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_50596b41.mp3"
                     },
                     {
                       "text": "생각하면",
@@ -5388,7 +5388,7 @@
                       },
                       "exKr": "다시 생각하면.",
                       "exCn": "再想想的话。",
-                      "audio": ""
+                      "audio": "audio/words/w_d10be1b6.mp3"
                     },
                     {
                       "text": "그",
@@ -5399,7 +5399,7 @@
                       "morph": null,
                       "exKr": "그 시절.",
                       "exCn": "那个年代。",
-                      "audio": ""
+                      "audio": "audio/words/w_8ebf6dc6.mp3"
                     },
                     {
                       "text": "많은",
@@ -5424,7 +5424,7 @@
                       },
                       "exKr": "많은 사람.",
                       "exCn": "很多人。",
-                      "audio": ""
+                      "audio": "audio/words/w_15b67567.mp3"
                     },
                     {
                       "text": "시간들을",
@@ -5453,7 +5453,7 @@
                       },
                       "exKr": "시간이 많다.",
                       "exCn": "时间多。",
-                      "audio": ""
+                      "audio": "audio/words/w_3f23fd87.mp3"
                     },
                     {
                       "text": "우린",
@@ -5478,7 +5478,7 @@
                       },
                       "exKr": "우린 학생이야.",
                       "exCn": "我们是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "대체",
@@ -5489,7 +5489,7 @@
                       "morph": null,
                       "exKr": "대체 왜 그래?",
                       "exCn": "到底怎么了？",
-                      "audio": ""
+                      "audio": "audio/words/w_9a060fbf.mp3"
                     },
                     {
                       "text": "뭘",
@@ -5514,7 +5514,7 @@
                       },
                       "exKr": "뭘 하니?",
                       "exCn": "在干嘛？",
-                      "audio": ""
+                      "audio": "audio/words/w_99f7625f.mp3"
                     },
                     {
                       "text": "하면서",
@@ -5539,7 +5539,7 @@
                       },
                       "exKr": "노래하면서 걷다.",
                       "exCn": "边唱歌边走。",
-                      "audio": ""
+                      "audio": "audio/words/w_d8ff41ad.mp3"
                     },
                     {
                       "text": "보냈을까",
@@ -5568,7 +5568,7 @@
                       },
                       "exKr": "시간을 보내다.",
                       "exCn": "打发时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_8ba3802b.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5630,7 +5630,7 @@
                       },
                       "exKr": "덕선아 밥 먹어.",
                       "exCn": "德善啊，吃饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_899b8015.mp3"
                     },
                     {
                       "text": "숟가락",
@@ -5651,7 +5651,7 @@
                       },
                       "exKr": "숟가락을 들다.",
                       "exCn": "拿起勺子。",
-                      "audio": ""
+                      "audio": "audio/words/w_014ad5d0.mp3"
                     },
                     {
                       "text": "부터",
@@ -5662,7 +5662,7 @@
                       "morph": null,
                       "exKr": "너부터 시작.",
                       "exCn": "从你开始。",
-                      "audio": ""
+                      "audio": "audio/words/w_132922b9.mp3"
                     },
                     {
                       "text": "놓아라",
@@ -5687,7 +5687,7 @@
                       },
                       "exKr": "가방을 놓아라.",
                       "exCn": "把包放下。",
-                      "audio": ""
+                      "audio": "audio/words/w_ed9b2346.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5739,7 +5739,7 @@
                       "morph": null,
                       "exKr": "언니가 있다.",
                       "exCn": "有姐姐。",
-                      "audio": ""
+                      "audio": "audio/words/w_564e04da.mp3"
                     },
                     {
                       "text": "성보라",
@@ -5750,7 +5750,7 @@
                       "morph": null,
                       "exKr": "성보라 언니.",
                       "exCn": "成宝拉姐姐。",
-                      "audio": ""
+                      "audio": "audio/words/w_358b6171.mp3"
                     },
                     {
                       "text": "서울대학",
@@ -5771,7 +5771,7 @@
                       },
                       "exKr": "서울대학에 다니다.",
                       "exCn": "在首尔大学上学。",
-                      "audio": ""
+                      "audio": "audio/words/w_ad4ed49b.mp3"
                     },
                     {
                       "text": "수학교육과",
@@ -5792,7 +5792,7 @@
                       },
                       "exKr": "수학교육과 학생.",
                       "exCn": "数学教育系学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_57129267.mp3"
                     },
                     {
                       "text": "2학년",
@@ -5817,7 +5817,7 @@
                       },
                       "exKr": "고등학교 2학년.",
                       "exCn": "高中二年级。",
-                      "audio": ""
+                      "audio": "audio/words/w_b4b07e70.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -5877,7 +5877,7 @@
                       "morph": null,
                       "exKr": "우리 집.",
                       "exCn": "我们家。",
-                      "audio": ""
+                      "audio": "audio/words/w_56f50d7d.mp3"
                     },
                     {
                       "text": "집",
@@ -5888,7 +5888,7 @@
                       "morph": null,
                       "exKr": "집에 가다.",
                       "exCn": "回家。",
-                      "audio": ""
+                      "audio": "audio/words/w_4f15583c.mp3"
                     },
                     {
                       "text": "최고",
@@ -5899,7 +5899,7 @@
                       "morph": null,
                       "exKr": "최고다.",
                       "exCn": "是最棒的。",
-                      "audio": ""
+                      "audio": "audio/words/w_18d2ffcd.mp3"
                     },
                     {
                       "text": "권력자이자",
@@ -5924,7 +5924,7 @@
                       },
                       "exKr": "권력자가 되다.",
                       "exCn": "成为掌权者。",
-                      "audio": ""
+                      "audio": "audio/words/w_b91d8a9c.mp3"
                     },
                     {
                       "text": "이",
@@ -5935,7 +5935,7 @@
                       "morph": null,
                       "exKr": "이 골목.",
                       "exCn": "这条巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_6f3ac528.mp3"
                     },
                     {
                       "text": "골목",
@@ -5946,7 +5946,7 @@
                       "morph": null,
                       "exKr": "우리 골목.",
                       "exCn": "我们巷子。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     },
                     {
                       "text": "최강의",
@@ -5971,7 +5971,7 @@
                       },
                       "exKr": "최강의 라이벌.",
                       "exCn": "最强的对手。",
-                      "audio": ""
+                      "audio": "audio/words/w_412e14e4.mp3"
                     },
                     {
                       "text": "미친년",
@@ -6000,7 +6000,7 @@
                       },
                       "exKr": "미친놈 같다.",
                       "exCn": "像疯子一样。",
-                      "audio": ""
+                      "audio": "audio/words/w_ee07e7e9.mp3"
                     },
                     {
                       "text": "되시겠다",
@@ -6029,7 +6029,7 @@
                       },
                       "exKr": "선생님이 되시겠다.",
                       "exCn": "将要成为老师。",
-                      "audio": ""
+                      "audio": "audio/words/w_7533c28d.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6091,7 +6091,7 @@
                       },
                       "exKr": "이래봬도 고등학생이에요.",
                       "exCn": "别看这样，已经是高中生了。",
-                      "audio": ""
+                      "audio": "audio/words/w_83d8aa25.mp3"
                     },
                     {
                       "text": "무려",
@@ -6102,7 +6102,7 @@
                       "morph": null,
                       "exKr": "무려 세 시간을 기다렸다.",
                       "exCn": "足足等了三个小时。",
-                      "audio": ""
+                      "audio": "audio/words/w_cebde596.mp3"
                     },
                     {
                       "text": "열일곱",
@@ -6127,7 +6127,7 @@
                       },
                       "exKr": "열일곱 살입니다.",
                       "exCn": "十七岁。",
-                      "audio": ""
+                      "audio": "audio/words/w_b80c41e7.mp3"
                     },
                     {
                       "text": "살",
@@ -6138,7 +6138,7 @@
                       "morph": null,
                       "exKr": "스무 살입니다.",
                       "exCn": "二十岁。",
-                      "audio": ""
+                      "audio": "audio/words/w_5d4dee8e.mp3"
                     },
                     {
                       "text": "살이다",
@@ -6163,7 +6163,7 @@
                       },
                       "exKr": "학생이다.",
                       "exCn": "是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_07bfd72f.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6211,7 +6211,7 @@
                       "morph": null,
                       "exKr": "아빠, 사랑해요.",
                       "exCn": "爸爸，我爱你。",
-                      "audio": ""
+                      "audio": "audio/words/w_b05c8c89.mp3"
                     },
                     {
                       "text": "곧",
@@ -6222,7 +6222,7 @@
                       "morph": null,
                       "exKr": "곧 가겠습니다.",
                       "exCn": "马上去。",
-                      "audio": ""
+                      "audio": "audio/words/w_41d88683.mp3"
                     },
                     {
                       "text": "오신대",
@@ -6251,7 +6251,7 @@
                       },
                       "exKr": "비가 온대.",
                       "exCn": "（他们）说下雨。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba9c1e4f.mp3"
                     },
                     {
                       "text": "조금만",
@@ -6276,7 +6276,7 @@
                       },
                       "exKr": "조금만 기다려 주세요.",
                       "exCn": "请稍等一下。",
-                      "audio": ""
+                      "audio": "audio/words/w_41cc1070.mp3"
                     },
                     {
                       "text": "기다려",
@@ -6301,7 +6301,7 @@
                       },
                       "exKr": "좀 기다려.",
                       "exCn": "等一下。",
-                      "audio": ""
+                      "audio": "audio/words/w_0f73c3ce.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6345,7 +6345,7 @@
                       "morph": null,
                       "exKr": "가스 불을 켜다.",
                       "exCn": "打开煤气灶。",
-                      "audio": ""
+                      "audio": "audio/words/w_0b31959e.mp3"
                     },
                     {
                       "text": "가스죠",
@@ -6370,7 +6370,7 @@
                       },
                       "exKr": "맞죠?",
                       "exCn": "对吧？",
-                      "audio": ""
+                      "audio": "audio/words/w_0e9720b1.mp3"
                     },
                     {
                       "text": "네",
@@ -6381,7 +6381,7 @@
                       "morph": null,
                       "exKr": "네, 알겠습니다.",
                       "exCn": "是，知道了。",
-                      "audio": ""
+                      "audio": "audio/words/w_b6de9a60.mp3"
                     },
                     {
                       "text": "여기",
@@ -6392,7 +6392,7 @@
                       "morph": null,
                       "exKr": "여기가 우리 집이에요.",
                       "exCn": "这里是我家。",
-                      "audio": ""
+                      "audio": "audio/words/w_78230fa5.mp3"
                     },
                     {
                       "text": "봉황당",
@@ -6403,7 +6403,7 @@
                       "morph": null,
                       "exKr": "봉황당 골목에 살아요.",
                       "exCn": "住在凤凰堂胡同。",
-                      "audio": ""
+                      "audio": "audio/words/w_02929dc9.mp3"
                     },
                     {
                       "text": "골목",
@@ -6414,7 +6414,7 @@
                       "morph": null,
                       "exKr": "이 골목이 좋다.",
                       "exCn": "这条胡同好。",
-                      "audio": ""
+                      "audio": "audio/words/w_f41bc2b4.mp3"
                     },
                     {
                       "text": "파란",
@@ -6439,7 +6439,7 @@
                       },
                       "exKr": "파란 하늘이 예쁘다.",
                       "exCn": "蓝天很美。",
-                      "audio": ""
+                      "audio": "audio/words/w_6fb373e2.mp3"
                     },
                     {
                       "text": "대문",
@@ -6450,7 +6450,7 @@
                       "morph": null,
                       "exKr": "대문을 열다.",
                       "exCn": "开大门。",
-                      "audio": ""
+                      "audio": "audio/words/w_bddcdccf.mp3"
                     },
                     {
                       "text": "집이요",
@@ -6475,7 +6475,7 @@
                       },
                       "exKr": "여기가 우리 집이에요.",
                       "exCn": "这里是我家。",
-                      "audio": ""
+                      "audio": "audio/words/w_4f15583c.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6537,7 +6537,7 @@
                       },
                       "exKr": "철수야, 이리 와.",
                       "exCn": "哲洙啊，过来。",
-                      "audio": ""
+                      "audio": "audio/words/w_9c5be0fe.mp3"
                     },
                     {
                       "text": "아랫집",
@@ -6562,7 +6562,7 @@
                       },
                       "exKr": "아랫집에 살아요.",
                       "exCn": "住在楼下那家。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba9d2a7d.mp3"
                     },
                     {
                       "text": "가서",
@@ -6587,7 +6587,7 @@
                       },
                       "exKr": "집에 가서 쉬어.",
                       "exCn": "回家休息吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_efb0dbba.mp3"
                     },
                     {
                       "text": "밥",
@@ -6598,7 +6598,7 @@
                       "morph": null,
                       "exKr": "밥 먹었어?",
                       "exCn": "吃饭了吗？",
-                      "audio": ""
+                      "audio": "audio/words/w_f56bae24.mp3"
                     },
                     {
                       "text": "한",
@@ -6623,7 +6623,7 @@
                       },
                       "exKr": "사과 한 개 주세요.",
                       "exCn": "请给我一个苹果。",
-                      "audio": ""
+                      "audio": "audio/words/w_558136bd.mp3"
                     },
                     {
                       "text": "공기",
@@ -6634,7 +6634,7 @@
                       "morph": null,
                       "exKr": "밥 두 공기를 먹었다.",
                       "exCn": "吃了两碗饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_82ab5955.mp3"
                     },
                     {
                       "text": "얻어와",
@@ -6663,7 +6663,7 @@
                       },
                       "exKr": "이웃에게 밥을 얻어왔다.",
                       "exCn": "向邻居讨来了饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_02a8ce2c.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6711,7 +6711,7 @@
                       "morph": null,
                       "exKr": "아, 맞다.",
                       "exCn": "啊，对了。",
-                      "audio": ""
+                      "audio": "audio/words/w_fd5b7791.mp3"
                     },
                     {
                       "text": "엄마가",
@@ -6736,7 +6736,7 @@
                       },
                       "exKr": "엄마가 밥을 해 주셨다.",
                       "exCn": "妈妈给我做了饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_e771a8b3.mp3"
                     },
                     {
                       "text": "이거",
@@ -6757,7 +6757,7 @@
                       },
                       "exKr": "이거 뭐야?",
                       "exCn": "这是什么？",
-                      "audio": ""
+                      "audio": "audio/words/w_e4f96ff5.mp3"
                     },
                     {
                       "text": "갖다",
@@ -6782,7 +6782,7 @@
                       },
                       "exKr": "이걸 갖다 줘.",
                       "exCn": "把这个拿去给（他）。",
-                      "audio": ""
+                      "audio": "audio/words/w_5e553b05.mp3"
                     },
                     {
                       "text": "드리래요",
@@ -6807,7 +6807,7 @@
                       },
                       "exKr": "선물을 드리래요.",
                       "exCn": "（妈妈说让）送礼。",
-                      "audio": ""
+                      "audio": "audio/words/w_88fbc80e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -6855,7 +6855,7 @@
                       "morph": null,
                       "exKr": "아, 그리고 하나 더.",
                       "exCn": "啊，还有一个。",
-                      "audio": ""
+                      "audio": "audio/words/w_fd5b7791.mp3"
                     },
                     {
                       "text": "엄마가",
@@ -6880,7 +6880,7 @@
                       },
                       "exKr": "엄마가 편지를 썼다.",
                       "exCn": "妈妈写了信。",
-                      "audio": ""
+                      "audio": "audio/words/w_e771a8b3.mp3"
                     },
                     {
                       "text": "그리고",
@@ -6891,7 +6891,7 @@
                       "morph": null,
                       "exKr": "그리고 나서 집에 갔다.",
                       "exCn": "然后就回家了。",
-                      "audio": ""
+                      "audio": "audio/words/w_a95af3b9.mp3"
                     },
                     {
                       "text": "밥",
@@ -6902,7 +6902,7 @@
                       "morph": null,
                       "exKr": "밥을 먹다.",
                       "exCn": "吃饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_f56bae24.mp3"
                     },
                     {
                       "text": "한",
@@ -6927,7 +6927,7 @@
                       },
                       "exKr": "커피 한 잔 주세요.",
                       "exCn": "请给我一杯咖啡。",
-                      "audio": ""
+                      "audio": "audio/words/w_558136bd.mp3"
                     },
                     {
                       "text": "공기만",
@@ -6952,7 +6952,7 @@
                       },
                       "exKr": "밥 한 공기만 주세요.",
                       "exCn": "请只给一碗饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_82ab5955.mp3"
                     },
                     {
                       "text": "달라고",
@@ -6977,7 +6977,7 @@
                       },
                       "exKr": "이것 좀 달라고 해.",
                       "exCn": "（你）让（他）把这个给我。",
-                      "audio": ""
+                      "audio": "audio/words/w_2dfc381b.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7025,7 +7025,7 @@
                       "morph": null,
                       "exKr": "너희 집이 어디야?",
                       "exCn": "你们家在哪？",
-                      "audio": ""
+                      "audio": "audio/words/w_cac33d7d.mp3"
                     },
                     {
                       "text": "아버지",
@@ -7036,7 +7036,7 @@
                       "morph": null,
                       "exKr": "아버지께서 오셨다.",
                       "exCn": "父亲来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_0e2734d1.mp3"
                     },
                     {
                       "text": "오늘",
@@ -7047,7 +7047,7 @@
                       "morph": null,
                       "exKr": "오늘 날씨가 좋다.",
                       "exCn": "今天天气好。",
-                      "audio": ""
+                      "audio": "audio/words/w_e1e8a7b4.mp3"
                     },
                     {
                       "text": "늦게",
@@ -7072,7 +7072,7 @@
                       },
                       "exKr": "늦게 일어났다.",
                       "exCn": "起晚了。",
-                      "audio": ""
+                      "audio": "audio/words/w_b3e5d9c9.mp3"
                     },
                     {
                       "text": "들어온다고",
@@ -7097,7 +7097,7 @@
                       },
                       "exKr": "일찍 들어왔다.",
                       "exCn": "早回来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_296f312a.mp3"
                     },
                     {
                       "text": "하시더니",
@@ -7126,7 +7126,7 @@
                       },
                       "exKr": "비가 온다고 하더니 안 왔다.",
                       "exCn": "说过会下雨，结果没下。",
-                      "audio": ""
+                      "audio": "audio/words/w_d8ff41ad.mp3"
                     },
                     {
                       "text": "일찍",
@@ -7137,7 +7137,7 @@
                       "morph": null,
                       "exKr": "일찍 일어나다.",
                       "exCn": "早起。",
-                      "audio": ""
+                      "audio": "audio/words/w_be4b944b.mp3"
                     },
                     {
                       "text": "들어오시나",
@@ -7166,7 +7166,7 @@
                       },
                       "exKr": "비가 오시나 봐요.",
                       "exCn": "看来（他）要来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_296f312a.mp3"
                     },
                     {
                       "text": "보네",
@@ -7191,7 +7191,7 @@
                       },
                       "exKr": "비가 오나 보네.",
                       "exCn": "看来下雨了啊。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba170c3d.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7239,7 +7239,7 @@
                       "morph": null,
                       "exKr": "아, 잠깐만요.",
                       "exCn": "啊，等一下。",
-                      "audio": ""
+                      "audio": "audio/words/w_fd5b7791.mp3"
                     },
                     {
                       "text": "참",
@@ -7250,7 +7250,7 @@
                       "morph": null,
                       "exKr": "참, 이것 좀 봐.",
                       "exCn": "对了，看看这个。",
-                      "audio": ""
+                      "audio": "audio/words/w_de206d21.mp3"
                     },
                     {
                       "text": "있어봐라",
@@ -7283,7 +7283,7 @@
                       },
                       "exKr": "좀 있어봐.",
                       "exCn": "待一会儿。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfe763f3.mp3"
                     },
                     {
                       "text": "정환아",
@@ -7308,7 +7308,7 @@
                       },
                       "exKr": "정환아, 이리 와.",
                       "exCn": "正焕啊，过来。",
-                      "audio": ""
+                      "audio": "audio/words/w_9c5be0fe.mp3"
                     },
                     {
                       "text": "아줌마가",
@@ -7333,7 +7333,7 @@
                       },
                       "exKr": "아줌마가 만들었어요.",
                       "exCn": "阿姨做的。",
-                      "audio": ""
+                      "audio": "audio/words/w_23d04f73.mp3"
                     },
                     {
                       "text": "깍두기",
@@ -7344,7 +7344,7 @@
                       "morph": null,
                       "exKr": "깍두기가 맛있다.",
                       "exCn": "萝卜泡菜块好吃。",
-                      "audio": ""
+                      "audio": "audio/words/w_fbf11979.mp3"
                     },
                     {
                       "text": "좀",
@@ -7365,7 +7365,7 @@
                       },
                       "exKr": "좀 주세요.",
                       "exCn": "请给一点。",
-                      "audio": ""
+                      "audio": "audio/words/w_f5b98d99.mp3"
                     },
                     {
                       "text": "줄게",
@@ -7390,7 +7390,7 @@
                       },
                       "exKr": "내가 줄게.",
                       "exCn": "我给你。",
-                      "audio": ""
+                      "audio": "audio/words/w_62a806f1.mp3"
                     },
                     {
                       "text": "엄마",
@@ -7401,7 +7401,7 @@
                       "morph": null,
                       "exKr": "엄마한테 줘.",
                       "exCn": "给妈妈。",
-                      "audio": ""
+                      "audio": "audio/words/w_e771a8b3.mp3"
                     },
                     {
                       "text": "갖다",
@@ -7426,7 +7426,7 @@
                       },
                       "exKr": "이걸 갖다 드려.",
                       "exCn": "把这个拿去给（她）。",
-                      "audio": ""
+                      "audio": "audio/words/w_5e553b05.mp3"
                     },
                     {
                       "text": "드려라",
@@ -7451,7 +7451,7 @@
                       },
                       "exKr": "어머니께 드려라.",
                       "exCn": "给妈妈吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_88fbc80e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7495,7 +7495,7 @@
                       "morph": null,
                       "exKr": "아줌마, 안녕하세요.",
                       "exCn": "阿姨，您好。",
-                      "audio": ""
+                      "audio": "audio/words/w_23d04f73.mp3"
                     },
                     {
                       "text": "엄마가",
@@ -7520,7 +7520,7 @@
                       },
                       "exKr": "엄마가 보냈어요.",
                       "exCn": "妈妈让我来的。",
-                      "audio": ""
+                      "audio": "audio/words/w_e771a8b3.mp3"
                     },
                     {
                       "text": "카레",
@@ -7531,7 +7531,7 @@
                       "morph": null,
                       "exKr": "카레를 만들다.",
                       "exCn": "做咖喱。",
-                      "audio": ""
+                      "audio": "audio/words/w_55302983.mp3"
                     },
                     {
                       "text": "좀",
@@ -7552,7 +7552,7 @@
                       },
                       "exKr": "물 좀 주세요.",
                       "exCn": "请给点水。",
-                      "audio": ""
+                      "audio": "audio/words/w_f5b98d99.mp3"
                     },
                     {
                       "text": "드시래요",
@@ -7577,7 +7577,7 @@
                       },
                       "exKr": "많이 드세요.",
                       "exCn": "请多吃点。",
-                      "audio": ""
+                      "audio": "audio/words/w_4a8fae16.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7639,7 +7639,7 @@
                       },
                       "exKr": "엄마가 요리해요.",
                       "exCn": "妈妈做饭。",
-                      "audio": ""
+                      "audio": "audio/words/w_e771a8b3.mp3"
                     },
                     {
                       "text": "이거",
@@ -7660,7 +7660,7 @@
                       },
                       "exKr": "이거 맛있어요.",
                       "exCn": "这个好吃。",
-                      "audio": ""
+                      "audio": "audio/words/w_e4f96ff5.mp3"
                     },
                     {
                       "text": "갖다",
@@ -7685,7 +7685,7 @@
                       },
                       "exKr": "이걸 갖다 드려.",
                       "exCn": "把这个拿去给（她）。",
-                      "audio": ""
+                      "audio": "audio/words/w_5e553b05.mp3"
                     },
                     {
                       "text": "드리래요",
@@ -7710,7 +7710,7 @@
                       },
                       "exKr": "선물을 드리래요.",
                       "exCn": "（妈妈说让）送礼。",
-                      "audio": ""
+                      "audio": "audio/words/w_88fbc80e.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7768,7 +7768,7 @@
                       },
                       "exKr": "나는 학생이다.",
                       "exCn": "我是学生。",
-                      "audio": ""
+                      "audio": "audio/words/w_4b709453.mp3"
                     },
                     {
                       "text": "왜",
@@ -7779,7 +7779,7 @@
                       "morph": null,
                       "exKr": "왜 안 왔어?",
                       "exCn": "为什么没来？",
-                      "audio": ""
+                      "audio": "audio/words/w_0c98bf65.mp3"
                     },
                     {
                       "text": "그때를",
@@ -7804,7 +7804,7 @@
                       },
                       "exKr": "그때로 돌아가고 싶다.",
                       "exCn": "想回到那个时候。",
-                      "audio": ""
+                      "audio": "audio/words/w_81a5df0a.mp3"
                     },
                     {
                       "text": "그리워하는지",
@@ -7829,7 +7829,7 @@
                       },
                       "exKr": "고향이 그립다.",
                       "exCn": "怀念故乡。",
-                      "audio": ""
+                      "audio": "audio/words/w_f9a78b21.mp3"
                     },
                     {
                       "text": "알",
@@ -7850,7 +7850,7 @@
                       },
                       "exKr": "무슨 일인지 알겠니?",
                       "exCn": "知道是什么事吗？",
-                      "audio": ""
+                      "audio": "audio/words/w_4d5956ac.mp3"
                     },
                     {
                       "text": "것",
@@ -7861,7 +7861,7 @@
                       "morph": null,
                       "exKr": "할 것이 많다.",
                       "exCn": "要做的事很多。",
-                      "audio": ""
+                      "audio": "audio/words/w_6d874351.mp3"
                     },
                     {
                       "text": "같다",
@@ -7886,7 +7886,7 @@
                       },
                       "exKr": "비가 올 것 같다.",
                       "exCn": "好像要下雨了。",
-                      "audio": ""
+                      "audio": "audio/words/w_b70efcfa.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -7926,7 +7926,7 @@
                       "morph": null,
                       "exKr": "그래도 해야 한다.",
                       "exCn": "即使这样也得做。",
-                      "audio": ""
+                      "audio": "audio/words/w_1ac8f6a9.mp3"
                     },
                     {
                       "text": "그",
@@ -7937,7 +7937,7 @@
                       "morph": null,
                       "exKr": "그 사람",
                       "exCn": "那个人",
-                      "audio": ""
+                      "audio": "audio/words/w_8ebf6dc6.mp3"
                     },
                     {
                       "text": "시절이",
@@ -7962,7 +7962,7 @@
                       },
                       "exKr": "학생 시절이 그립다.",
                       "exCn": "怀念学生时代。",
-                      "audio": ""
+                      "audio": "audio/words/w_b5ca1068.mp3"
                     },
                     {
                       "text": "좋았다",
@@ -7991,7 +7991,7 @@
                       },
                       "exKr": "어제 날씨가 좋았다.",
                       "exCn": "昨天天气好。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba40a6d6.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -8049,7 +8049,7 @@
                       },
                       "exKr": "친구가 많다.",
                       "exCn": "朋友很多。",
-                      "audio": ""
+                      "audio": "audio/words/w_2e2bda5f.mp3"
                     },
                     {
                       "text": "좋아서",
@@ -8074,7 +8074,7 @@
                       },
                       "exKr": "날씨가 좋아서 산책했다.",
                       "exCn": "因为天气好去散步了。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba40a6d6.mp3"
                     },
                     {
                       "text": "웃는",
@@ -8099,7 +8099,7 @@
                       },
                       "exKr": "그는 잘 웃는다.",
                       "exCn": "他爱笑。",
-                      "audio": ""
+                      "audio": "audio/words/w_ec0bf763.mp3"
                     },
                     {
                       "text": "게",
@@ -8124,7 +8124,7 @@
                       },
                       "exKr": "좋은 게 뭐야?",
                       "exCn": "好的是什么？",
-                      "audio": ""
+                      "audio": "audio/words/w_6d874351.mp3"
                     },
                     {
                       "text": "아니라",
@@ -8149,7 +8149,7 @@
                       },
                       "exKr": "돈이 아니라 시간이 필요하다.",
                       "exCn": "需要的不是钱而是时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea8360ee.mp3"
                     },
                     {
                       "text": "웃어서",
@@ -8174,7 +8174,7 @@
                       },
                       "exKr": "웃어서 기분이 좋다.",
                       "exCn": "笑着心情变好。",
-                      "audio": ""
+                      "audio": "audio/words/w_ec0bf763.mp3"
                     },
                     {
                       "text": "친구가",
@@ -8199,7 +8199,7 @@
                       },
                       "exKr": "친구가 왔다.",
                       "exCn": "朋友来了。",
-                      "audio": ""
+                      "audio": "audio/words/w_2e2bda5f.mp3"
                     },
                     {
                       "text": "좋은",
@@ -8224,7 +8224,7 @@
                       },
                       "exKr": "좋은 날씨",
                       "exCn": "好天气。",
-                      "audio": ""
+                      "audio": "audio/words/w_ba40a6d6.mp3"
                     },
                     {
                       "text": "거다",
@@ -8249,7 +8249,7 @@
                       },
                       "exKr": "내가 할 거다.",
                       "exCn": "我会做的。",
-                      "audio": ""
+                      "audio": "audio/words/w_6d874351.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -8297,7 +8297,7 @@
                       "morph": null,
                       "exKr": "조용한 동네에 살다.",
                       "exCn": "住在安静的小区。",
-                      "audio": ""
+                      "audio": "audio/words/w_70fc92ef.mp3"
                     },
                     {
                       "text": "사람들은",
@@ -8326,7 +8326,7 @@
                       },
                       "exKr": "사람들이 많다.",
                       "exCn": "人很多。",
-                      "audio": ""
+                      "audio": "audio/words/w_0a35d721.mp3"
                     },
                     {
                       "text": "누가",
@@ -8351,7 +8351,7 @@
                       },
                       "exKr": "누가 왔어?",
                       "exCn": "谁来了？",
-                      "audio": ""
+                      "audio": "audio/words/w_523d8566.mp3"
                     },
                     {
                       "text": "시켜서가",
@@ -8380,7 +8380,7 @@
                       },
                       "exKr": "엄마가 시킨 일이다.",
                       "exCn": "是妈妈让做的事。",
-                      "audio": ""
+                      "audio": "audio/words/w_c5c78e11.mp3"
                     },
                     {
                       "text": "아니라",
@@ -8405,7 +8405,7 @@
                       },
                       "exKr": "돈이 아니라 시간이 필요하다.",
                       "exCn": "需要的不是钱而是时间。",
-                      "audio": ""
+                      "audio": "audio/words/w_ea8360ee.mp3"
                     },
                     {
                       "text": "그냥",
@@ -8416,7 +8416,7 @@
                       "morph": null,
                       "exKr": "그냥 두세요.",
                       "exCn": "就这样放着吧。",
-                      "audio": ""
+                      "audio": "audio/words/w_dfa49d42.mp3"
                     },
                     {
                       "text": "하던",
@@ -8441,7 +8441,7 @@
                       },
                       "exKr": "하던 대로 해.",
                       "exCn": "按原来的做。",
-                      "audio": ""
+                      "audio": "audio/words/w_d8ff41ad.mp3"
                     },
                     {
                       "text": "거야",
@@ -8466,7 +8466,7 @@
                       },
                       "exKr": "내가 할 거야.",
                       "exCn": "我会做的。",
-                      "audio": ""
+                      "audio": "audio/words/w_6d874351.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -8510,7 +8510,7 @@
                       "morph": null,
                       "exKr": "어쩌면 내일 눈이 올지도 모른다.",
                       "exCn": "也许明天下雪。",
-                      "audio": ""
+                      "audio": "audio/words/w_719932bf.mp3"
                     },
                     {
                       "text": "가족이",
@@ -8535,7 +8535,7 @@
                       },
                       "exKr": "가족이 가장 중요하다.",
                       "exCn": "家人最重要。",
-                      "audio": ""
+                      "audio": "audio/words/w_19fa45a1.mp3"
                     },
                     {
                       "text": "제일",
@@ -8546,7 +8546,7 @@
                       "morph": null,
                       "exKr": "제일 좋아하는 음식",
                       "exCn": "最喜欢的食物。",
-                      "audio": ""
+                      "audio": "audio/words/w_c6363c7f.mp3"
                     },
                     {
                       "text": "모른다",
@@ -8571,7 +8571,7 @@
                       },
                       "exKr": "나는 그 사실을 모른다.",
                       "exCn": "我不知道那个事实。",
-                      "audio": ""
+                      "audio": "audio/words/w_293941ff.mp3"
                     }
                   ],
                   "memorizationTips": {
@@ -8637,7 +8637,7 @@
                       },
                       "exKr": "내 책이에요.",
                       "exCn": "是我的书。",
-                      "audio": ""
+                      "audio": "audio/words/w_252f61d4.mp3"
                     },
                     {
                       "text": "첫사랑이",
@@ -8666,7 +8666,7 @@
                       },
                       "exKr": "첫사랑을 잊지 못한다.",
                       "exCn": "忘不了初恋。",
-                      "audio": ""
+                      "audio": "audio/words/w_788e6a12.mp3"
                     },
                     {
                       "text": "널",
@@ -8691,7 +8691,7 @@
                       },
                       "exKr": "널 사랑해.",
                       "exCn": "爱你。",
-                      "audio": ""
+                      "audio": "audio/words/w_4e23994e.mp3"
                     },
                     {
                       "text": "닮았단",
@@ -8720,7 +8720,7 @@
                       },
                       "exKr": "아버지를 닮았다.",
                       "exCn": "长得像父亲。",
-                      "audio": ""
+                      "audio": "audio/words/w_faa112bb.mp3"
                     },
                     {
                       "text": "말이야",
@@ -8745,7 +8745,7 @@
                       },
                       "exKr": "그런 말이야.",
                       "exCn": "是那样的话。",
-                      "audio": ""
+                      "audio": "audio/words/w_d9e892b5.mp3"
                     }
                   ],
                   "memorizationTips": {
